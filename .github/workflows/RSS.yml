@@ -26,4 +26,4 @@ jobs:
         pip install feedparser requests github3.py
 
     - name: Assemble RSS of new items
-      run: python3 ./trimstray.py
+      run: python3 ./BoSK-Scraper.py
