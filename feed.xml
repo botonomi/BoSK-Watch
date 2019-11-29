@@ -1,1 +1,248 @@
-Bootstrap
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"><channel>
+<title>Trimstray</title>
+<description>Whats New</description>
+<link></link>
+<item>
+	<title>add 'hackso.me'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/251779c0dcd6257aecf34378ad09217792fee64a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Corsy'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f6f010823d58fc60051113a8d5e40255937a9a0d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Powerlevel9k'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/91600baa21a5c17d1c66edd3cac680cff379ee3a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add new awk one-liners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/35310ec6740b555ba1ab1260e50ed905cc4b5ac2</link><description><![CDATA[###### Search for matching lines<br>
+# egrep foo<br>
+awk '/foo/' filename<br>
+```<br>
+###### Search non matching lines<br>
+```bash<br>
+# egrep -v foo<br>
+awk '!/foo/' filename<br>
+```<br>
+###### Print matching lines with numbers<br>
+```bash<br>
+# egrep -n foo<br>
+awk '/foo/{print FNR,$0}' filename<br>
+###### Find all the lines longer than 80 characters<br>
+```bash<br>
+awk 'length($0)>80{print FNR,$0}' filename<br>
+```<br>
+###### Print only lines of less than 80 characters<br>
+```bash<br>
+awk 'length < 80 filename<br>
+```<br>
+###### Print double new lines a file<br>
+```bash<br>
+awk '1; { print "" }' filename<br>
+```<br>
+###### Print line numbers<br>
+```bash<br>
+awk '{ print FNR "\t" $0 }' filename<br>
+awk '{ printf("%5d : %s\n", NR, $0) }' filename   # in a fancy manner<br>
+```<br>
+###### Print line numbers for only non-blank lines<br>
+```bash<br>
+awk 'NF { $0=++a " :" $0 }; { print }' filename<br>
+```<br>
+###### Print the line and the next two (i=5) lines after the line matching regexp<br>
+```bash<br>
+awk '/foo/{i=5+1;}{if(i){i--; print;}}' filename<br>
+```<br>
+###### Print the lines starting at the line matching 'server {' until the line matching '}'<br>
+```bash<br>
+awk '/server {/,/}/' filename<br>
+```<br>
+###### Print multiple columns with separators<br>
+```bash<br>
+awk -F' ' '{print "ip:\t" $2 "\n port:\t" $3' filename<br>
+```<br>
+###### Delete trailing white space (spaces, tabs)<br>
+awk '{sub(/[ \t]*$/, "");print}' filename<br>
+```<br>
+###### Delete leading white space<br>
+```bash<br>
+awk '{sub(/^[ \t]+/, ""); print}' filename<br>
+```<br>
+###### Remove duplicate consecutive lines<br>
+```bash<br>
+# uniq<br>
+awk 'a !~ $0{print}; {a=$0}' filename<br>
+```<br>
+###### Remove duplicate entries in a file without sorting<br>
+```bash<br>
+awk '!x[$0]++' filename<br>
+###### Substitute foo for bar on lines matching regexp<br>
+```bash<br>
+awk '/regexp/{gsub(/foo/, "bar")};{print}' filename<br>
+```<br>
+###### Add some characters at the beginning of matching lines<br>
+```bash<br>
+awk '/regexp/{sub(/^/, "++++"); print;next;}{print}' filename<br>
+```<br>
+###### Print a specific line from a file<br>
+###### Remove blank lines from a file and save output to new file<br>
+```bash<br>
+grep . filename > newfilename<br>
+```<br>
+ ]]></description>
+</item>
+<item>
+	<title>add perl one-liners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2d6885850b7970d92f3c9b24e3c5050f3fcfa57</link><description><![CDATA[  * [perl](#tool-perl)<br>
+##### Tool: [perl](https://www.perl.org/)<br>
+###### Search and replace (in place)<br>
+```bash<br>
+perl -i -pe's/SEARCH/REPLACE/' filename<br>
+```<br>
+###### Edit of `*.conf` files changing all foo to bar (and backup original)<br>
+```bash<br>
+perl -p -i.orig -e 's/\bfoo\b/bar/g' *.conf<br>
+```<br>
+###### Prints the first 20 lines from `*.conf` files<br>
+```bash<br>
+perl -pe 'exit if $. > 20' *.conf<br>
+```<br>
+###### Search lines 10 to 20<br>
+```bash<br>
+perl -ne 'print if 10 .. 20' filename<br>
+```<br>
+###### Delete first 10 lines (and backup original)<br>
+```bash<br>
+perl -i.orig -ne 'print unless 1 .. 10' filename<br>
+```<br>
+###### Delete all but lines between foo and bar (and backup original)<br>
+```bash<br>
+perl -i.orig -ne 'print unless /^foo$/ .. /^bar$/' filename<br>
+```<br>
+###### Reduce multiple blank lines to a single line<br>
+```bash<br>
+perl -p -i -00pe0 filename<br>
+```<br>
+###### Convert tabs to spaces (1t = 2sp)<br>
+```bash<br>
+perl -p -i -e 's/\t/  /g' filename<br>
+```<br>
+###### Read input from a file and report number of lines and characters<br>
+```bash<br>
+perl -lne '$i++; $in += length($_); END { print "$i lines, $in characters"; }' filename<br>
+```<br>
+ ]]></description>
+</item>
+<item>
+	<title>add new stuff + 'Hack Firefox addressbar'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c039844fbf8f4df3e8fc6303d26e82729098bd3e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://openresty.org/en/"><b>OpenResty</b></a> - is a dynamic web platform based on NGINX and LuaJIT.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.manning.com/books/http2-in-action"><b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"><b>Let's code a TCP/IP stack</b></a> - great stuff to learn network and system programming at a deeper level.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls"><b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br><br>
+###### Hack Mozilla Firefox addressbar<br>
+In Firefox's addressbar, you can limit results by typing special characters before or after your term:<br>
+- `^` - for matches in your browsing history<br>
+- `*` - for matches in your bookmarks.<br>
+- `%` - for matches in your currently open tabs.<br>
+- `#` - for matches in page titles.<br>
+- `@` - for matches in web addresses.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'HackingNeuralNetworks'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/11752db48dd12ef30e293145305ea0933d0aaf89</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kayzaks/HackingNeuralNetworks"><b>HackingNeuralNetworks</b></a> - is a small course on exploiting and defending neural networks.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add new search engines</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8b30960b0f816968fcb7f88791cdf5e8c4a3653d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://weleakinfo.com"><b>We Leak Info</b></a> - world's fastest and largest data breach search engine.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://scylla.sh"><b>scylla</b></a> - db dumps and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - find where any technology is used, across millions of sites.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dehashed.com/"><b>dehashed</b></a> - is a hacked database search engine.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://leakedsource.ru/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/moloch--/RootTheBox"><b>RootTheBox</b></a> - a Game of Hackers (CTF Scoreboard & Game Manager).<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctfchallenge.co.uk/login"><b>CTF Challenge</b></a> - CTF Web App challenges.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://capturetheflag.withgoogle.com"><b>gCTF</b></a> - most of the challenges used in the Google CTF 2017.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthissite.org/pages/index/index.php"><b>Hack This Site</b></a> - is a free, safe and legal training ground for hackers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>fix a long description</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7f4b595f9e374dd43f3831f43cd8f600c41564e0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - help you follow the Mozilla Server Side TLS configuration guidelines.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'awesome-shodan-queries'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8a44838c03a577d271444e215eb0703fe9592ae8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #125 from creyD/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7561e7b7138e116b2e6c48463abb8bdcad7560d1</link><description><![CDATA[ &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/18017122311ee14a99f7145589b9c83427374d5f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Added link for generated.photos</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6b89b7aec0a7f884c8df66ae64e98df8cf869057</link><description><![CDATA[ &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Mozilla SSL Configuration Generator'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cc5edfa1d44dcfb998b1f9a7cabbb12dee9bbbbd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - is a tool which builds configuration files to help you follow the Mozilla Server Side TLS configuration guidelines.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>update paths</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6e00a6ab678d937d4dadd357836a22ea525241b7</link><description><![CDATA[## Using the issue tracker<br>
+The [issue tracker](https://github.com/trimstray/the-book-of-secret-knowledge/issues) is<br>
+the preferred channel for bug reports, features requests and submitting pull requests, but please respect the following restrictions:<br>
+* Please **do not** use the issue tracker for personal support requests (use<br>
+  [Stack Overflow](https://stackoverflow.com) or IRC)<br>
+* Please **do not** derail or troll issues. Keep the discussion on topic and<br>
+  respect the opinions of others<br>
+Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:<br>
+ ]]></description>
+</item>
+<item>
+	<title>minor fix</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/62f533707bbfabe2c71aa6c659802a917684cc0a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/de75faa36fd7a36ca619420244d44d63656c0014</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add .github</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/eb659d6af7f5ceb4cdc2e8d41ade12ee6dc39533</link><description><![CDATA[open_collective: trimstray<br>
+github: trimstray<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #124 from yehgdotnet/cybersecwtf</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1775fe232eefaaa265a559b2e8d45e74d2313149</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf0b07848bea9d4a0bd15829de32a0edbc31e006</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br><br>
+ ]]></description>
+</item>
+
+</channel>
+</rss>
