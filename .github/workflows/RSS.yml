@@ -1,10 +1,8 @@
 name: What's new with BoSK RSS
   
-#on:
-#  schedule:
-#    - cron:  '0 0,8,16 * * *'
-
-on: [push]
+on:
+  schedule:
+    - cron:  '0 0,8,16 * * *'
 
 jobs:
   build:
