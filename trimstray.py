@@ -17,7 +17,7 @@ raw = feedparser.parse(feed)
 xml.write('<?xml version="1.0" encoding="UTF-8" ?>')
 xml.write("\n")
 xml.write('<rss version="2.0">')
-xml.write('<channel>\n<title>Trimstray</title>\n<description>Whats New</description>\n<link>')
+xml.write('<channel>\n<title>New at The Book of Secret Knowledge</title>\n<description>New at The Book of Secret Knowledge</description>\n<link>')
 xml.write(link)
 xml.write("</link>\n")
 
