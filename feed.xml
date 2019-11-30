@@ -4,6 +4,17 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/415b811b9e79036a77fdabe67e484ed7bbbce58b</link><description><![CDATA[## :newspaper: &nbsp;RSS Feed & Updates<br>
+ ]]></description>
+</item>
+<item>
+	<title>#126 - add RSS Feed (commits)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3e21cd8fb6fd506212ed47680ca2430a6d18774c</link><description><![CDATA[## :newspaper: &nbsp;Updates<br>
+GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'hackso.me'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/251779c0dcd6257aecf34378ad09217792fee64a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://hackso.me/"><b>hackso.me</b></a> - a great journey into security.<br><br>
  ]]></description>
@@ -230,17 +241,6 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 	<title>add .github</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/eb659d6af7f5ceb4cdc2e8d41ade12ee6dc39533</link><description><![CDATA[open_collective: trimstray<br>
 github: trimstray<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #124 from yehgdotnet/cybersecwtf</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1775fe232eefaaa265a559b2e8d45e74d2313149</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf0b07848bea9d4a0bd15829de32a0edbc31e006</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br><br>
  ]]></description>
 </item>
 
