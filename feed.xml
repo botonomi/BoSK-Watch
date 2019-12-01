@@ -4,6 +4,29 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>update license (MIT)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d118da93a528206e28de1cc08ce8489deaa82473</link><description><![CDATA[MIT License<br>
+Copyright (c) 2017 trimstray<br>
+Permission is hereby granted, free of charge, to any person obtaining a copy<br>
+of this software and associated documentation files (the "Software"), to deal<br>
+in the Software without restriction, including without limitation the rights<br>
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>
+copies of the Software, and to permit persons to whom the Software is<br>
+furnished to do so, subject to the following conditions:<br>
+The above copyright notice and this permission notice shall be included in all<br>
+copies or substantial portions of the Software.<br>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
+SOFTWARE.<br>
+  <a href="LICENSE.md"><br>
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License"><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/415b811b9e79036a77fdabe67e484ed7bbbce58b</link><description><![CDATA[## :newspaper: &nbsp;RSS Feed & Updates<br>
  ]]></description>
@@ -235,12 +258,6 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/de75faa36fd7a36ca619420244d44d63656c0014</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add .github</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/eb659d6af7f5ceb4cdc2e8d41ade12ee6dc39533</link><description><![CDATA[open_collective: trimstray<br>
-github: trimstray<br>
  ]]></description>
 </item>
 
