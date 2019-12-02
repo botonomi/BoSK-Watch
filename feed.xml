@@ -4,6 +4,56 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Bypass WAFs by Shortening IP Address'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92ec021ecc9595c39377624c3a7f3c04da8b7aa0</link><description><![CDATA[###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))<br>
+IP addresses can be shortened by dropping the zeroes:<br>
+```<br>
+http://1.0.0.1 → http://1.1<br>
+http://127.0.0.1 → http://127.1<br>
+http://192.168.0.1 → http://192.168.1<br>
+```<br>
+  > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.<br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typos</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/996da61c56336942f169bd684cc7b48ec2826051</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - security countermeasures when designing, testing, and releasing your API.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add new stuff v2; add 'CTF platforms' chapter</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/065985a32af6e7c96471a5a517b590341e77755a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zmap/zmap"><b>zmap</b></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/farrokhi/dnsdiag"><b>dnsdiag</b></a> - is a DNS diagnostics and performance measurement tools.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - the most important security countermeasures when designing, testing, and releasing your API.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a> - the only Front-End Performance Checklist that runs faster than the others.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devsecops/awesome-devsecops"><b>awesome-devsecops</b></a> - an authoritative list of awesome devsecops tools.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jivoi/awesome-osint"><b>awesome-osint</b></a> - is a curated list of amazingly awesome OSINT.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danistefanovic/build-your-own-x"><b>build-your-own-x</b></a> - build your own (insert technology here).<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rby90/Project-Based-Tutorials-in-C"><b>Project-Based-Tutorials-in-C</b></a> - is a curated list of project-based tutorials in C.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a> - find web directories without bruteforce.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vulnersCom/getsploit"><b>getsploit</b></a> - is a command line utility for searching and downloading exploits.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/VirusTotal/yara"><b>yara</b></a> - the pattern matching swiss knife.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/m4ll0k/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a> - is a curated list of awesome Hacking Tools.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/toolswatch/blackhat-arsenal-tools"><b>blackhat-arsenal-tools</b></a> - official Black Hat arsenal security tools repository.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OlivierLaflamme/Cheatsheet-God"><b>Cheatsheet-God</b></a> - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/nixawk/pentest-wiki"><b>pentest-wiki</b></a> - is a free online security knowledge library for pentesters/researchers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public penetration test reports released by several consulting security groups.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web applications developed using Node.js.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable 2</b></a> - vulnerable web application amongst security researchers.<br><br>
+##### :black_small_square: CTF platforms<br>
+<p><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/facebook/fbctf"><b>fbctf</b></a> - platform to host Capture the Flag competitions.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/ctfscoreboard"><b>ctfscoreboard</b></a> - scoreboard for Capture The Flag competitions.<br><br>
+</p><br>
+ ]]></description>
+</item>
+<item>
 	<title>add new stuff</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9a67c89c4c8e43780f863d7d68c1cbb07b01d4db</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a> - is a constant throughput, correct latency recording variant of wrk.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ssllabs/ssllabs-scan"><b>ssllabs-scan</b></a> - command-line reference-implementation client for SSL Labs APIs.<br><br>
@@ -251,27 +301,6 @@ In Firefox's addressbar, you can limit results by typing special characters befo
 	<title>Added link for generated.photos</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6b89b7aec0a7f884c8df66ae64e98df8cf869057</link><description><![CDATA[ &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
  ]]></description>
-</item>
-<item>
-	<title>add 'Mozilla SSL Configuration Generator'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cc5edfa1d44dcfb998b1f9a7cabbb12dee9bbbbd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - is a tool which builds configuration files to help you follow the Mozilla Server Side TLS configuration guidelines.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>update paths</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6e00a6ab678d937d4dadd357836a22ea525241b7</link><description><![CDATA[## Using the issue tracker<br>
-The [issue tracker](https://github.com/trimstray/the-book-of-secret-knowledge/issues) is<br>
-the preferred channel for bug reports, features requests and submitting pull requests, but please respect the following restrictions:<br>
-* Please **do not** use the issue tracker for personal support requests (use<br>
-  [Stack Overflow](https://stackoverflow.com) or IRC)<br>
-* Please **do not** derail or troll issues. Keep the discussion on topic and<br>
-  respect the opinions of others<br>
-Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:<br>
- ]]></description>
-</item>
-<item>
-	<title>minor fix</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/62f533707bbfabe2c71aa6c659802a917684cc0a</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
