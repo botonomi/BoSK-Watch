@@ -4,6 +4,23 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add twitter img shield</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a18dc33bb87d63aa0a3c9be4e71ca288086d180e</link><description><![CDATA[<p align="center"><br>
+  <a href="https://twitter.com/trimstray" target="_blank"><br>
+    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter"><br>
+  </a><br>
+</p><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor updates (add new shortened IPs)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fd3fe1b57830785434781903a73e956b10203c8c</link><description><![CDATA[http://0xC0A80001 or http://3232235521 → 192.168.0.1<br>
+http://192.168.257 → 192.168.1.1<br>
+http://192.168.516 → 192.168.2.4<br>
+For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Bypass WAFs by Shortening IP Address'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92ec021ecc9595c39377624c3a7f3c04da8b7aa0</link><description><![CDATA[###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))<br>
 IP addresses can be shortened by dropping the zeroes:<br>
@@ -290,16 +307,6 @@ In Firefox's addressbar, you can limit results by typing special characters befo
 	<title>Merge pull request #125 from creyD/master</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7561e7b7138e116b2e6c48463abb8bdcad7560d1</link><description><![CDATA[ &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/18017122311ee14a99f7145589b9c83427374d5f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Added link for generated.photos</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6b89b7aec0a7f884c8df66ae64e98df8cf869057</link><description><![CDATA[ &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br><br>
  ]]></description>
 </item>
 
