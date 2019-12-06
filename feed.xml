@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'dns-over-https'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/66538dc585123da966e9b6ff50a72900d83acebc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/"><b>dns-over-https</b></a> - a cartoon intro to DNS over HTTPS.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'vuls'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/94b13242e9301c362526179f4e86568a186d8941</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add new stuff v3</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/719c8e9a3e634767f8353041bf52bab68a84144b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blechschmidt/massdns"><b>massdns</b></a> - is a high-performance DNS stub resolver for bulk lookups and reconnaissance.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br><br>
@@ -303,16 +313,6 @@ In Firefox's addressbar, you can limit results by typing special characters befo
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthissite.org/pages/index/index.php"><b>Hack This Site</b></a> - is a free, safe and legal training ground for hackers.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix a long description</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7f4b595f9e374dd43f3831f43cd8f600c41564e0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - help you follow the Mozilla Server Side TLS configuration guidelines.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'awesome-shodan-queries'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8a44838c03a577d271444e215eb0703fe9592ae8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br><br>
  ]]></description>
 </item>
 
