@@ -4,6 +4,32 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'awesome-sec-talks'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/98a1d7e73f6bffee4bd839fb70e720d3bf5d34ef</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9aa33cab9da7e6f0b68c72392fe3fe7ee61ce348</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'awesome-security-hardening'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c43718ce14b9a7a0108c5454c3a55b68fc55de75</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a> - is a collection of security hardening guides, tools and other resources.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'fakeface.co'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a05c723209613747358328eab4321dc3a8cc51a1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://fakeface.co/"><b>fakeface</b></a> - fake faces browser.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor fix</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/976e840817b23ec4df8954e1190ad05f42cd25e1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'dns-over-https'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/66538dc585123da966e9b6ff50a72900d83acebc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/"><b>dns-over-https</b></a> - a cartoon intro to DNS over HTTPS.<br><br>
  ]]></description>
@@ -158,161 +184,6 @@ GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-kno
 <item>
 	<title>add 'Powerlevel9k'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/91600baa21a5c17d1c66edd3cac680cff379ee3a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add new awk one-liners</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/35310ec6740b555ba1ab1260e50ed905cc4b5ac2</link><description><![CDATA[###### Search for matching lines<br>
-# egrep foo<br>
-awk '/foo/' filename<br>
-```<br>
-###### Search non matching lines<br>
-```bash<br>
-# egrep -v foo<br>
-awk '!/foo/' filename<br>
-```<br>
-###### Print matching lines with numbers<br>
-```bash<br>
-# egrep -n foo<br>
-awk '/foo/{print FNR,$0}' filename<br>
-###### Find all the lines longer than 80 characters<br>
-```bash<br>
-awk 'length($0)>80{print FNR,$0}' filename<br>
-```<br>
-###### Print only lines of less than 80 characters<br>
-```bash<br>
-awk 'length < 80 filename<br>
-```<br>
-###### Print double new lines a file<br>
-```bash<br>
-awk '1; { print "" }' filename<br>
-```<br>
-###### Print line numbers<br>
-```bash<br>
-awk '{ print FNR "\t" $0 }' filename<br>
-awk '{ printf("%5d : %s\n", NR, $0) }' filename   # in a fancy manner<br>
-```<br>
-###### Print line numbers for only non-blank lines<br>
-```bash<br>
-awk 'NF { $0=++a " :" $0 }; { print }' filename<br>
-```<br>
-###### Print the line and the next two (i=5) lines after the line matching regexp<br>
-```bash<br>
-awk '/foo/{i=5+1;}{if(i){i--; print;}}' filename<br>
-```<br>
-###### Print the lines starting at the line matching 'server {' until the line matching '}'<br>
-```bash<br>
-awk '/server {/,/}/' filename<br>
-```<br>
-###### Print multiple columns with separators<br>
-```bash<br>
-awk -F' ' '{print "ip:\t" $2 "\n port:\t" $3' filename<br>
-```<br>
-###### Delete trailing white space (spaces, tabs)<br>
-awk '{sub(/[ \t]*$/, "");print}' filename<br>
-```<br>
-###### Delete leading white space<br>
-```bash<br>
-awk '{sub(/^[ \t]+/, ""); print}' filename<br>
-```<br>
-###### Remove duplicate consecutive lines<br>
-```bash<br>
-# uniq<br>
-awk 'a !~ $0{print}; {a=$0}' filename<br>
-```<br>
-###### Remove duplicate entries in a file without sorting<br>
-```bash<br>
-awk '!x[$0]++' filename<br>
-###### Substitute foo for bar on lines matching regexp<br>
-```bash<br>
-awk '/regexp/{gsub(/foo/, "bar")};{print}' filename<br>
-```<br>
-###### Add some characters at the beginning of matching lines<br>
-```bash<br>
-awk '/regexp/{sub(/^/, "++++"); print;next;}{print}' filename<br>
-```<br>
-###### Print a specific line from a file<br>
-###### Remove blank lines from a file and save output to new file<br>
-```bash<br>
-grep . filename > newfilename<br>
-```<br>
- ]]></description>
-</item>
-<item>
-	<title>add perl one-liners</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2d6885850b7970d92f3c9b24e3c5050f3fcfa57</link><description><![CDATA[  * [perl](#tool-perl)<br>
-##### Tool: [perl](https://www.perl.org/)<br>
-###### Search and replace (in place)<br>
-```bash<br>
-perl -i -pe's/SEARCH/REPLACE/' filename<br>
-```<br>
-###### Edit of `*.conf` files changing all foo to bar (and backup original)<br>
-```bash<br>
-perl -p -i.orig -e 's/\bfoo\b/bar/g' *.conf<br>
-```<br>
-###### Prints the first 20 lines from `*.conf` files<br>
-```bash<br>
-perl -pe 'exit if $. > 20' *.conf<br>
-```<br>
-###### Search lines 10 to 20<br>
-```bash<br>
-perl -ne 'print if 10 .. 20' filename<br>
-```<br>
-###### Delete first 10 lines (and backup original)<br>
-```bash<br>
-perl -i.orig -ne 'print unless 1 .. 10' filename<br>
-```<br>
-###### Delete all but lines between foo and bar (and backup original)<br>
-```bash<br>
-perl -i.orig -ne 'print unless /^foo$/ .. /^bar$/' filename<br>
-```<br>
-###### Reduce multiple blank lines to a single line<br>
-```bash<br>
-perl -p -i -00pe0 filename<br>
-```<br>
-###### Convert tabs to spaces (1t = 2sp)<br>
-```bash<br>
-perl -p -i -e 's/\t/  /g' filename<br>
-```<br>
-###### Read input from a file and report number of lines and characters<br>
-```bash<br>
-perl -lne '$i++; $in += length($_); END { print "$i lines, $in characters"; }' filename<br>
-```<br>
- ]]></description>
-</item>
-<item>
-	<title>add new stuff + 'Hack Firefox addressbar'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c039844fbf8f4df3e8fc6303d26e82729098bd3e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://openresty.org/en/"><b>OpenResty</b></a> - is a dynamic web platform based on NGINX and LuaJIT.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.manning.com/books/http2-in-action"><b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"><b>Let's code a TCP/IP stack</b></a> - great stuff to learn network and system programming at a deeper level.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls"><b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br><br>
-###### Hack Mozilla Firefox addressbar<br>
-In Firefox's addressbar, you can limit results by typing special characters before or after your term:<br>
-- `^` - for matches in your browsing history<br>
-- `*` - for matches in your bookmarks.<br>
-- `%` - for matches in your currently open tabs.<br>
-- `#` - for matches in page titles.<br>
-- `@` - for matches in web addresses.<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'HackingNeuralNetworks'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/11752db48dd12ef30e293145305ea0933d0aaf89</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kayzaks/HackingNeuralNetworks"><b>HackingNeuralNetworks</b></a> - is a small course on exploiting and defending neural networks.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add new search engines</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8b30960b0f816968fcb7f88791cdf5e8c4a3653d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://weleakinfo.com"><b>We Leak Info</b></a> - world's fastest and largest data breach search engine.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://scylla.sh"><b>scylla</b></a> - db dumps and more.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - find where any technology is used, across millions of sites.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dehashed.com/"><b>dehashed</b></a> - is a hacked database search engine.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://leakedsource.ru/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/moloch--/RootTheBox"><b>RootTheBox</b></a> - a Game of Hackers (CTF Scoreboard & Game Manager).<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctfchallenge.co.uk/login"><b>CTF Challenge</b></a> - CTF Web App challenges.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://capturetheflag.withgoogle.com"><b>gCTF</b></a> - most of the challenges used in the Google CTF 2017.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthissite.org/pages/index/index.php"><b>Hack This Site</b></a> - is a free, safe and legal training ground for hackers.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br><br>
  ]]></description>
 </item>
 
