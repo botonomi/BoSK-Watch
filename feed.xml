@@ -4,6 +4,12 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/598c4323a690a25dc3f6929a6f59631822a9b4f3</link><description><![CDATA[    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=111111"></a><br>
+    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=111111"></a><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #128 from opencollective/opencollective</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0fb4f4e20c10a3d4d360c391d169868d6240e82c</link><description><![CDATA[    <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/the-book-of-secret-knowledge/all/badge.svg?label=financial+contributors" /></a> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"><br>
 ## Contributors<br>
@@ -273,12 +279,6 @@ SOFTWARE.<br>
 <item>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/415b811b9e79036a77fdabe67e484ed7bbbce58b</link><description><![CDATA[## :newspaper: &nbsp;RSS Feed & Updates<br>
- ]]></description>
-</item>
-<item>
-	<title>#126 - add RSS Feed (commits)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3e21cd8fb6fd506212ed47680ca2430a6d18774c</link><description><![CDATA[## :newspaper: &nbsp;Updates<br>
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.<br>
  ]]></description>
 </item>
 
