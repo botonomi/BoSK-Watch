@@ -4,6 +4,12 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Open Collective: update img shields</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4bb029e25ac64577bd935dbbba63b92b52701828</link><description><![CDATA[    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
+    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
+ ]]></description>
+</item>
+<item>
 	<title>Open Collective: updates</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0f049391bdb567481bbe02d02ef7cb50d2975ffd</link><description><![CDATA[ ]]></description>
 </item>
@@ -255,29 +261,6 @@ http://192.168.0.1 → http://192.168.1<br>
 <p><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br><br>
 </p><br>
- ]]></description>
-</item>
-<item>
-	<title>update license (MIT)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d118da93a528206e28de1cc08ce8489deaa82473</link><description><![CDATA[MIT License<br>
-Copyright (c) 2017 trimstray<br>
-Permission is hereby granted, free of charge, to any person obtaining a copy<br>
-of this software and associated documentation files (the "Software"), to deal<br>
-in the Software without restriction, including without limitation the rights<br>
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>
-copies of the Software, and to permit persons to whom the Software is<br>
-furnished to do so, subject to the following conditions:<br>
-The above copyright notice and this permission notice shall be included in all<br>
-copies or substantial portions of the Software.<br>
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
-SOFTWARE.<br>
-  <a href="LICENSE.md"><br>
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License"><br>
  ]]></description>
 </item>
 
