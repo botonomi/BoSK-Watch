@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>#129 - add 'Pulsedive' search engine</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/41d7d3473c56c7d7ac75008285e6fd828764b3e5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://pulsedive.com/"><b>Pulsedive</b></a> - scans of malicious URLs, IPs, and domains, including port scans and web requests.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Open Collective: update img shields</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4bb029e25ac64577bd935dbbba63b92b52701828</link><description><![CDATA[    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
     <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
@@ -241,25 +246,6 @@ http://192.168.0.1 → http://192.168.1<br>
 <p><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/facebook/fbctf"><b>fbctf</b></a> - platform to host Capture the Flag competitions.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/ctfscoreboard"><b>ctfscoreboard</b></a> - scoreboard for Capture The Flag competitions.<br><br>
-</p><br>
- ]]></description>
-</item>
-<item>
-	<title>add new stuff</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9a67c89c4c8e43780f863d7d68c1cbb07b01d4db</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a> - is a constant throughput, correct latency recording variant of wrk.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ssllabs/ssllabs-scan"><b>ssllabs-scan</b></a> - command-line reference-implementation client for SSL Labs APIs.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/http-observatory"><b>http-observatory</b></a> - Mozilla HTTP Observatory cli version.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.archlinux.org/index.php/List_of_applications"><b>List of applications</b></a> - huge collection of applications sorted by category, as a reference for those looking for packages.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/InterviewMap/CS-Interview-Knowledge-Map"><b>CS-Interview-Knowledge-Map</b></a> - build the best interview map.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tikam02/DevOps-Guide"><b>DevOps-Guide</b></a> - DevOps Guide from basic to advanced with Interview Questions and Notes.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mahmoud/awesome-python-applications"><b>awesome-python-applications</b></a> - free software that works great, and also happens to be open-source Python.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a> - web and mobile application security training platform.<br><br>
-##### :black_small_square: Vulnerable virtual machines<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br><br>
 </p><br>
  ]]></description>
 </item>
