@@ -4,6 +4,17 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typo; add 'mimikatz'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5de44e43e3ed40a69ca0fb3b807a650e399de611</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'streisand'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0b25c89a3ddaefdde38e8471909a078c61255405</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and many more.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'pentestpackage'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ad9093d27da9a07e7bacc8899b03a792508bdfd3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a> - is a package of Pentest scripts.<br><br>
  ]]></description>
@@ -202,23 +213,6 @@ Support this project with your organization. Your logo will show up here with a 
 http://192.168.257 → 192.168.1.1<br>
 http://192.168.516 → 192.168.2.4<br>
 For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Bypass WAFs by Shortening IP Address'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92ec021ecc9595c39377624c3a7f3c04da8b7aa0</link><description><![CDATA[###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))<br>
-IP addresses can be shortened by dropping the zeroes:<br>
-```<br>
-http://1.0.0.1 → http://1.1<br>
-http://127.0.0.1 → http://127.1<br>
-http://192.168.0.1 → http://192.168.1<br>
-```<br>
-  > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix typos</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/996da61c56336942f169bd684cc7b48ec2826051</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - security countermeasures when designing, testing, and releasing your API.<br><br>
  ]]></description>
 </item>
 
