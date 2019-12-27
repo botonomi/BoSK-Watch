@@ -4,6 +4,22 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #130 from amnkh/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/49edaeb474720573db24c4baecf651202840413a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>update description</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/58ac1c1b3d1ddeb1cd7ac244ace38ccf4ac7edac</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Substituted RIPE NCC with RIPE NCC Atlas project</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/44b385de5f6f4c5c322f6e36442b867ba376f467</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typo; add 'mimikatz'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5de44e43e3ed40a69ca0fb3b807a650e399de611</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and more.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br><br>
@@ -184,35 +200,6 @@ Support this project with your organization. Your logo will show up here with a 
 <item>
 	<title>add 'vuls'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/94b13242e9301c362526179f4e86568a186d8941</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add new stuff v3</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/719c8e9a3e634767f8353041bf52bab68a84144b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blechschmidt/massdns"><b>massdns</b></a> - is a high-performance DNS stub resolver for bulk lookups and reconnaissance.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br><br>
-##### :black_small_square: Secure Webmail Providers<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Idnan/bash-guide"><b>bash-guide</b></a> - is a guide to learn bash.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/denysdovhan/bash-handbook"><b>bash-handbook</b></a> - for those who wanna learn Bash.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a> - guide to securing and improving privacy on macOS.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dloss/python-pentest-tools"><b>python-pentest-tools</b></a> - python tools for penetration testers.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a> - is an open-source application vulnerability correlation and security orchestration tool.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add twitter img shield</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a18dc33bb87d63aa0a3c9be4e71ca288086d180e</link><description><![CDATA[<p align="center"><br>
-  <a href="https://twitter.com/trimstray" target="_blank"><br>
-    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter"><br>
-  </a><br>
-</p><br>
- ]]></description>
-</item>
-<item>
-	<title>minor updates (add new shortened IPs)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fd3fe1b57830785434781903a73e956b10203c8c</link><description><![CDATA[http://0xC0A80001 or http://3232235521 → 192.168.0.1<br>
-http://192.168.257 → 192.168.1.1<br>
-http://192.168.516 → 192.168.2.4<br>
-For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).<br>
  ]]></description>
 </item>
 
