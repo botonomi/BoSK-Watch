@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #131 from digitalmine/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f31ec5c4991d4e2394c237bdd163d382adc9502b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/index.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9af92bff5e29bb5171c8d3bafea39c169b8a9101</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/index.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #130 from amnkh/master</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/49edaeb474720573db24c4baecf651202840413a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br><br>
@@ -190,16 +200,6 @@ Support this project with your organization. Your logo will show up here with a 
 <item>
 	<title>minor fix</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/976e840817b23ec4df8954e1190ad05f42cd25e1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'dns-over-https'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/66538dc585123da966e9b6ff50a72900d83acebc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/"><b>dns-over-https</b></a> - a cartoon intro to DNS over HTTPS.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'vuls'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/94b13242e9301c362526179f4e86568a186d8941</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br><br>
  ]]></description>
 </item>
 
