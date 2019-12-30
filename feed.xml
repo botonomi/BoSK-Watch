@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'dnsperf'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db34a5ddb866561040d2f383311d47751c718024</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DNS-OARC/dnsperf"><b>dnsperf</b></a> - DNS performance testing tools.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #131 from digitalmine/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f31ec5c4991d4e2394c237bdd163d382adc9502b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/index.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br><br>
  ]]></description>
@@ -195,11 +200,6 @@ Support this project with your organization. Your logo will show up here with a 
 <item>
 	<title>add 'fakeface.co'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a05c723209613747358328eab4321dc3a8cc51a1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://fakeface.co/"><b>fakeface</b></a> - fake faces browser.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>minor fix</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/976e840817b23ec4df8954e1190ad05f42cd25e1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br><br>
  ]]></description>
 </item>
 
