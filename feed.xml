@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'smtp-tls-checker'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b743abf3c4b6566cb276882fd3d8e519c4ac4cd8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'bed'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ade6b02bad4765efc489a49c21a6ce383a41ec7e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br><br>
  ]]></description>
@@ -195,11 +200,6 @@ Support this project with your organization. Your logo will show up here with a 
 	<title>minor update</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9aa33cab9da7e6f0b68c72392fe3fe7ee61ce348</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'awesome-security-hardening'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c43718ce14b9a7a0108c5454c3a55b68fc55de75</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a> - is a collection of security hardening guides, tools and other resources.<br><br>
  ]]></description>
 </item>
 
