@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'command-injection-payload-list'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d5185bc7e9de65bc69f3aa7c6a98a72e1c4fb3e4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'smtp-tls-checker'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b743abf3c4b6566cb276882fd3d8e519c4ac4cd8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br><br>
  ]]></description>
@@ -194,12 +199,6 @@ Support this project with your organization. Your logo will show up here with a 
 <item>
 	<title>add 'awesome-sec-talks'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/98a1d7e73f6bffee4bd839fb70e720d3bf5d34ef</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>minor update</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9aa33cab9da7e6f0b68c72392fe3fe7ee61ce348</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br><br>
  ]]></description>
 </item>
 
