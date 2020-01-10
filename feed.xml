@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'lsyncd'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/70c1ec7fb45512b9436d7e59bdd3843ddcf7ca21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'command-injection-payload-list'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d5185bc7e9de65bc69f3aa7c6a98a72e1c4fb3e4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br><br>
  ]]></description>
@@ -194,11 +199,6 @@ Support this project with your organization. Your logo will show up here with a 
 <a href="https://opencollective.com/the-book-of-secret-knowledge/organization/7/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/7/avatar.svg"></a><br>
 <a href="https://opencollective.com/the-book-of-secret-knowledge/organization/8/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/8/avatar.svg"></a><br>
 <a href="https://opencollective.com/the-book-of-secret-knowledge/organization/9/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/9/avatar.svg"></a><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'awesome-sec-talks'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/98a1d7e73f6bffee4bd839fb70e720d3bf5d34ef</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br><br>
  ]]></description>
 </item>
 
