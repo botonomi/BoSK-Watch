@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'AutoRecon'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6af87608a451ff767dc055befa1d7689ee4e56f1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'lsyncd'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/70c1ec7fb45512b9436d7e59bdd3843ddcf7ca21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br><br>
  ]]></description>
@@ -164,31 +169,6 @@ Become a financial contributor and help us sustain our community **[» contribut
 <a href="https://opencollective.com/the-book-of-secret-knowledge"><img src="https://opencollective.com/the-book-of-secret-knowledge/individuals.svg?width=890"></a><br>
 #### Organizations<br>
 Support this project with your organization. Your logo will show up here with a link to your website **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.<br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/0/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/0/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/1/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/1/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/2/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/2/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/3/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/3/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/4/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/4/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/5/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/5/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/6/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/6/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/7/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/7/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/8/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/8/avatar.svg"></a><br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/9/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/9/avatar.svg"></a><br>
- ]]></description>
-</item>
-<item>
-	<title>Added financial contributors to the README</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/28e0069bec1dc85aa37f829ba52e0934ff4fd5ba</link><description><![CDATA[    <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/the-book-of-secret-knowledge/all/badge.svg?label=financial+contributors" /></a> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"><br>
-## Contributors<br>
-### Code Contributors<br>
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].<br>
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false" /></a><br>
-### Financial Contributors<br>
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)]<br>
-#### Individuals<br>
-<a href="https://opencollective.com/the-book-of-secret-knowledge"><img src="https://opencollective.com/the-book-of-secret-knowledge/individuals.svg?width=890"></a><br>
-#### Organizations<br>
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)]<br>
 <a href="https://opencollective.com/the-book-of-secret-knowledge/organization/0/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/0/avatar.svg"></a><br>
 <a href="https://opencollective.com/the-book-of-secret-knowledge/organization/1/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/1/avatar.svg"></a><br>
 <a href="https://opencollective.com/the-book-of-secret-knowledge/organization/2/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/2/avatar.svg"></a><br>
