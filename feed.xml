@@ -4,6 +4,15 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Check the private key and the CSR match'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2fbd1528754893f7e5dcdff1c290f5242270023e</link><description><![CDATA[###### Check whether the private key and the CSR match<br>
+```bash<br>
+(openssl rsa -noout -modulus -in private.key | openssl md5 ; \<br>
+openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
+```<br>
+ ]]></description>
+</item>
+<item>
 	<title>#133 - add correct link</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cc532f037cb65ecbb567af3fade1f798ba86910b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br><br>
  ]]></description>
@@ -99,12 +108,6 @@
 <item>
 	<title>Open Collective: updates</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0f049391bdb567481bbe02d02ef7cb50d2975ffd</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>minor update</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/598c4323a690a25dc3f6929a6f59631822a9b4f3</link><description><![CDATA[    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=111111"></a><br>
-    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=111111"></a><br>
- ]]></description>
 </item>
 
 </channel>
