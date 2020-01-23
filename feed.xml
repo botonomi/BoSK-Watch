@@ -4,6 +4,28 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix: #134 Overthewire duplicate issue (#136)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/002942aff8b1017714ee3f2e807fea78d785b444</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>fix: Overthewire duplicate issue</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/954423bc42be344ce8773f32c0ecdfeaea2678f6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>add 'TLS Cipher Suite Search'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8816f482cdbfcc0853f45bcd4bcb56ce67a63d5d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a><br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd and more.<b>*</b><br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add snippet: openssl with debug mode (more verbose)'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/67ef811b0fa5dc333709e16ea850f4b76ffe5bc4</link><description><![CDATA[###### Testing connection to the remote host (debug mode)<br>
+```bash<br>
+echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<br>
+```<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Secure Email'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a91cffc46b0f07bd45dd6144ad52b9c2927798e3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br><br>
  ]]></description>
@@ -88,27 +110,6 @@ openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
 <item>
 	<title>Substituted RIPE NCC with RIPE NCC Atlas project</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/44b385de5f6f4c5c322f6e36442b867ba376f467</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo; add 'mimikatz'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5de44e43e3ed40a69ca0fb3b807a650e399de611</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and more.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'streisand'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0b25c89a3ddaefdde38e8471909a078c61255405</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and many more.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'pentestpackage'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ad9093d27da9a07e7bacc8899b03a792508bdfd3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a> - is a package of Pentest scripts.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>#129 - add 'Pulsedive' search engine</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/41d7d3473c56c7d7ac75008285e6fd828764b3e5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://pulsedive.com/"><b>Pulsedive</b></a> - scans of malicious URLs, IPs, and domains, including port scans and web requests.<br><br>
  ]]></description>
 </item>
 
