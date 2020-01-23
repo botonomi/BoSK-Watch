@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Secure Email'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a91cffc46b0f07bd45dd6144ad52b9c2927798e3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix in one-liners (csr from existing cert)</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0cebad6e4330b4ef22b54ca0c627c1051d4b591b</link><description><![CDATA[  > Where `private.key` is the existing private key. As you can see you do not generate this CSR from your certificate (public key). Also you do not generate the "same" CSR, just a new one to request a new certificate.<br>
 cat << __EOF__<br>
@@ -104,12 +109,6 @@ openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
 <item>
 	<title>#129 - add 'Pulsedive' search engine</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/41d7d3473c56c7d7ac75008285e6fd828764b3e5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://pulsedive.com/"><b>Pulsedive</b></a> - scans of malicious URLs, IPs, and domains, including port scans and web requests.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Open Collective: update img shields</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4bb029e25ac64577bd935dbbba63b92b52701828</link><description><![CDATA[    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
-    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
  ]]></description>
 </item>
 
