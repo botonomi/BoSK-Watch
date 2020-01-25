@@ -4,6 +4,34 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #140 from alex3305/add-nmon</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cb47ac7785e46de13a9e898148ac8645b5ff15a2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update; fix line break tag</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/72cf00a546e75ec2689ea7bf88e56b1bea26cc8b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Added ncdu to file utilities (#139)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/30e1181b1cdef0d3beadcf8193a8d83251cf173b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Added nmon to system diagnostics</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2e237aae56bdfed86b7f4f86538faad9238ad64e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Added ncdu to file utilities</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b6715fe64df176b3992c09863a0e2a3b8cae02bb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix: #134 Overthewire duplicate issue (#136)</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/002942aff8b1017714ee3f2e807fea78d785b444</link><description><![CDATA[ ]]></description>
 </item>
@@ -84,32 +112,6 @@ openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
 <item>
 	<title>add 'dnsperf'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db34a5ddb866561040d2f383311d47751c718024</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DNS-OARC/dnsperf"><b>dnsperf</b></a> - DNS performance testing tools.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #131 from digitalmine/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f31ec5c4991d4e2394c237bdd163d382adc9502b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/index.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9af92bff5e29bb5171c8d3bafea39c169b8a9101</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/index.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #130 from amnkh/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/49edaeb474720573db24c4baecf651202840413a</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>update description</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/58ac1c1b3d1ddeb1cd7ac244ace38ccf4ac7edac</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Substituted RIPE NCC with RIPE NCC Atlas project</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/44b385de5f6f4c5c322f6e36442b867ba376f467</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
  ]]></description>
 </item>
 
