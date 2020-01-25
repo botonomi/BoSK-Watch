@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #146 from pylipp/fix/remove-duplicate</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c6b72f3267f23f2290ee31bd89fb0f7fb7315576</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove duplicated NerdyData entry</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e4b0fffabf0668a36102581bcfa4ac6f6ed882a7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #140 from alex3305/add-nmon</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cb47ac7785e46de13a9e898148ac8645b5ff15a2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
@@ -102,16 +112,6 @@ openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
 <item>
 	<title>add 'smtp-tls-checker'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b743abf3c4b6566cb276882fd3d8e519c4ac4cd8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'bed'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ade6b02bad4765efc489a49c21a6ce383a41ec7e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'dnsperf'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db34a5ddb866561040d2f383311d47751c718024</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DNS-OARC/dnsperf"><b>dnsperf</b></a> - DNS performance testing tools.<br><br>
  ]]></description>
 </item>
 
