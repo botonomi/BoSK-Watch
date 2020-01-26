@@ -4,6 +4,14 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #148 from eioo/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7c7e6efb81d32f98e7c73a6073479688739b20b3</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove Hackle</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/531ae95b5fdc1b0b9196839b276f4980026a95e0</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #146 from pylipp/fix/remove-duplicate</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c6b72f3267f23f2290ee31bd89fb0f7fb7315576</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
  ]]></description>
@@ -102,16 +110,6 @@ openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
 <item>
 	<title>add 'lsyncd'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/70c1ec7fb45512b9436d7e59bdd3843ddcf7ca21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'command-injection-payload-list'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d5185bc7e9de65bc69f3aa7c6a98a72e1c4fb3e4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'smtp-tls-checker'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b743abf3c4b6566cb276882fd3d8e519c4ac4cd8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br><br>
  ]]></description>
 </item>
 
