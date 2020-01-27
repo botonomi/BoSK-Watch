@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'awesome-public-datasets'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/68441cccab81d93f8f0a7f0c12e35bb55453b06c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #148 from eioo/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7c7e6efb81d32f98e7c73a6073479688739b20b3</link><description><![CDATA[ ]]></description>
 </item>
@@ -105,11 +110,6 @@ openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
 <item>
 	<title>add 'AutoRecon'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6af87608a451ff767dc055befa1d7689ee4e56f1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'lsyncd'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/70c1ec7fb45512b9436d7e59bdd3843ddcf7ca21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br><br>
  ]]></description>
 </item>
 
