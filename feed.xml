@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>move 'PortSwigger Web Security Blog' to geeky vendor blogs</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92e15ca5c3356da7d8b5d2288a20a8964bfdf3ea</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>added open source packet sender to the book of knowledge. (#142)</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3bb26713565d5945ea0b2615bf7e3f3c9d99eb94</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
@@ -103,11 +108,6 @@
 ```bash<br>
 echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<br>
 ```<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Spacemacs to Text Editors section</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/30d7c1e35d968751f4ea0e4d8973812ec628b815</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - community-driven Emacs distribution that merges features and workflows of both vim and emacs.<br><br>
  ]]></description>
 </item>
 
