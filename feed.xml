@@ -4,6 +4,29 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>added open source packet sender to the book of knowledge. (#142)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3bb26713565d5945ea0b2615bf7e3f3c9d99eb94</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>remove dup; update description</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f7f3525a4930412e9859ccefde8b993a3e98f15e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #135 from Cookizza/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/69567b15ca9de310513a8ef786229fc5d870a73b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - community-driven Emacs distribution that merges features and workflows of both vim and emacs.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>update description</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ae8f555617956f4298882b69ec8422ccf931eab7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'awesome-public-datasets'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/68441cccab81d93f8f0a7f0c12e35bb55453b06c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br><br>
  ]]></description>
@@ -45,6 +68,12 @@
  ]]></description>
 </item>
 <item>
+	<title>added open source packet sender to the book of knowledge.</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2e2e4c0b5ca958b667af04d7789c51c9481b44d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Added nmon to system diagnostics</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2e237aae56bdfed86b7f4f86538faad9238ad64e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
  ]]></description>
@@ -77,39 +106,8 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
  ]]></description>
 </item>
 <item>
-	<title>add 'Secure Email'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a91cffc46b0f07bd45dd6144ad52b9c2927798e3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix in one-liners (csr from existing cert)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0cebad6e4330b4ef22b54ca0c627c1051d4b591b</link><description><![CDATA[  > Where `private.key` is the existing private key. As you can see you do not generate this CSR from your certificate (public key). Also you do not generate the "same" CSR, just a new one to request a new certificate.<br>
-cat << __EOF__<br>
-__EOF__<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Check the private key and the CSR match'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2fbd1528754893f7e5dcdff1c290f5242270023e</link><description><![CDATA[###### Check whether the private key and the CSR match<br>
-```bash<br>
-(openssl rsa -noout -modulus -in private.key | openssl md5 ; \<br>
-openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
-```<br>
- ]]></description>
-</item>
-<item>
-	<title>#133 - add correct link</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cc532f037cb65ecbb567af3fade1f798ba86910b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'OWASP API Security Project'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5820ff74598b6108fbfef64dd0bc46b3ce76e855</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_API_Security_Project"><b>OWASP API Security Project</b></a> - focuses specifically on the top ten vulnerabilities in API security.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'AutoRecon'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6af87608a451ff767dc055befa1d7689ee4e56f1</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br><br>
+	<title>Added Spacemacs to Text Editors section</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/30d7c1e35d968751f4ea0e4d8973812ec628b815</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - community-driven Emacs distribution that merges features and workflows of both vim and emacs.<br><br>
  ]]></description>
 </item>
 
