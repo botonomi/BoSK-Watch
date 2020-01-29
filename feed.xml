@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'BGPview'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/43deb972805d69de6d8d04381ec39700ab05a83f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>move 'PortSwigger Web Security Blog' to geeky vendor blogs</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92e15ca5c3356da7d8b5d2288a20a8964bfdf3ea</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br><br>
  ]]></description>
@@ -100,14 +105,6 @@
 	<title>add 'TLS Cipher Suite Search'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8816f482cdbfcc0853f45bcd4bcb56ce67a63d5d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a><br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd and more.<b>*</b><br><br>
- ]]></description>
-</item>
-<item>
-	<title>add snippet: openssl with debug mode (more verbose)'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/67ef811b0fa5dc333709e16ea850f4b76ffe5bc4</link><description><![CDATA[###### Testing connection to the remote host (debug mode)<br>
-```bash<br>
-echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<br>
-```<br>
  ]]></description>
 </item>
 
