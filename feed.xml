@@ -4,6 +4,129 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'netsniff-ng'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/71cc4e05cdbbd1e346a51e73aff5643c79381103</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #127 from pstavirs/osti</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db8d3ced715b46993af01ba13ba85a96d07e3379</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ostinato.org/"><b>Ostinato</b></a> - is a packet crafter and traffic generator.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ostinato.org/"><b>Ostinato</b></a> - is a packet crafter and traffic generator.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'master' into osti</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3951433d8e5e0167aa241c994d9fcb273a21687c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://fakeface.co/"><b>fakeface</b></a> - fake faces browser.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a> - is a collection of security hardening guides, tools and other resources.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br><br>
+    <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/the-book-of-secret-knowledge/all/badge.svg?label=financial+contributors" /></a> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"><br>
+## Contributors<br>
+### Code Contributors<br>
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].<br>
+<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false" /></a><br>
+### Financial Contributors<br>
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)]<br>
+#### Individuals<br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge"><img src="https://opencollective.com/the-book-of-secret-knowledge/individuals.svg?width=890"></a><br>
+#### Organizations<br>
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)]<br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/0/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/0/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/1/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/1/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/2/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/2/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/3/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/3/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/4/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/4/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/5/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/5/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/6/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/6/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/7/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/7/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/8/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/8/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/9/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/9/avatar.svg"></a><br>
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"><br>
+### Code Contributors<br>
+This project exists thanks to all the people who contribute.<br>
+<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a><br>
+### Financial Contributors<br>
+<p align="left"><br>
+  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective"><br>
+    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=orange&labelColor=C0C0C0"></a><br>
+  </a><br>
+  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective"><br>
+    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=orange&labelColor=C0C0C0"></a><br>
+  </a><br>
+</p><br>
+#### Individuals<br>
+Become a financial contributor and help us sustain our community **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.<br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge"><img src="https://opencollective.com/the-book-of-secret-knowledge/individuals.svg?width=890"></a><br>
+#### Organizations<br>
+Support this project with your organization. Your logo will show up here with a link to your website **[» contribute](https://opencollective.com/the-book-of-secret-knowledge/contribute)**.<br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/0/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/0/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/1/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/1/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/2/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/2/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/3/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/3/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/4/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/4/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/5/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/5/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/6/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/6/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/7/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/7/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/8/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/8/avatar.svg"></a><br>
+<a href="https://opencollective.com/the-book-of-secret-knowledge/organization/9/website"><img src="https://opencollective.com/the-book-of-secret-knowledge/organization/9/avatar.svg"></a><br>
+    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=111111"></a><br>
+    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=111111"></a><br>
+    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
+    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pulsedive.com/"><b>Pulsedive</b></a> - scans of malicious URLs, IPs, and domains, including port scans and web requests.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a> - is a package of Pentest scripts.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and many more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, Shadowsocks, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform, consisting of thousands of measurement devices that measure Internet connectivity in real time.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://inteltechniques.com/index.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/DNS-OARC/dnsperf"><b>dnsperf</b></a> - DNS performance testing tools.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/OWASP_API_Security_Project"><b>OWASP API Security Project</b></a> - focuses specifically on the top ten vulnerabilities in API security.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br><br>
+###### Check whether the private key and the CSR match<br>
+```bash<br>
+(openssl rsa -noout -modulus -in private.key | openssl md5 ; \<br>
+openssl req -noout -modulus -in request.csr | openssl md5) | uniq<br>
+```<br>
+  > Where `private.key` is the existing private key. As you can see you do not generate this CSR from your certificate (public key). Also you do not generate the "same" CSR, just a new one to request a new certificate.<br>
+cat << __EOF__<br>
+__EOF__<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - community-driven Emacs distribution that merges features and workflows of both vim and emacs.<br><br>
+###### Testing connection to the remote host (debug mode)<br>
+```bash<br>
+echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<br>
+```<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a><br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd and more.<b>*</b><br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a34ea20c4982a02321b4aaee389c8b80415b1b82</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ostinato.org/"><b>Ostinato</b></a> - is a packet crafter and traffic generator.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'BGPview'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/43deb972805d69de6d8d04381ec39700ab05a83f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br><br>
  ]]></description>
@@ -86,25 +209,6 @@
 <item>
 	<title>Added nmon to system diagnostics</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2e237aae56bdfed86b7f4f86538faad9238ad64e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Added ncdu to file utilities</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b6715fe64df176b3992c09863a0e2a3b8cae02bb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix: #134 Overthewire duplicate issue (#136)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/002942aff8b1017714ee3f2e807fea78d785b444</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>fix: Overthewire duplicate issue</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/954423bc42be344ce8773f32c0ecdfeaea2678f6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add 'TLS Cipher Suite Search'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8816f482cdbfcc0853f45bcd4bcb56ce67a63d5d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a><br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd and more.<b>*</b><br><br>
  ]]></description>
 </item>
 
