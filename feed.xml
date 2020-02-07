@@ -4,6 +4,17 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>#137 - add 'Shell plugins' section</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/edd3048666a26375395d66b9ae6bfd6e473723dc</link><description><![CDATA[##### :black_small_square: Shell plugins<br>
+<p><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rupa/z"><b>z</b></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/junegunn/fzf"><b>fzf</b></a> - is a general-purpose command-line fuzzy finder.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br><br>
+</p><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'netsniff-ng'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/71cc4e05cdbbd1e346a51e73aff5643c79381103</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br><br>
  ]]></description>
@@ -204,11 +215,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 	<title>added open source packet sender to the book of knowledge.</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2e2e4c0b5ca958b667af04d7789c51c9481b44d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Added nmon to system diagnostics</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2e237aae56bdfed86b7f4f86538faad9238ad64e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
  ]]></description>
 </item>
 
