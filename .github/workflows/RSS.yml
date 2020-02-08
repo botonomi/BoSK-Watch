@@ -3,7 +3,7 @@ name: What's new with BoSK RSS
 on:
   schedule:
     #- cron:  '0 0,8,16 * * *'
-    - cron:   '30 0,8,17 * * *'
+    - cron:   '28 0,8,17 * * *'
 
 jobs:
   build:
