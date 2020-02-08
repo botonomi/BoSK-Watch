@@ -58,5 +58,5 @@ with open('feed.xml', 'rb') as fd:
 
 contents_object = repository.file_contents('feed.xml')
 
-push_status = contents_object.update('bacon', contents)
+push_status = contents_object.update('automatic', contents)
 print(push_status)
