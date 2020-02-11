@@ -4,6 +4,24 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'busybox' one-liners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e349e40ba05a4aeba78d27bd7f5b553f6a4d1754</link><description><![CDATA[  * [busybox](#tool-busybox)<br>
+```<br>
+---<br>
+##### Tool: [busybox](https://www.busybox.net/)<br>
+###### Static HTTP web server<br>
+```bash<br>
+busybox httpd -p $PORT -h $HOME [-c httpd.conf]<br>
+ ]]></description>
+</item>
+<item>
+	<title>add new resources</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8600bd07067608b0de6ac20b680bff2cc9aaa8db</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vedetta-com/vedetta"><b>vedetta</b></a> - OpenBSD router boilerplate.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a> - curated list of privacy respecting services and software.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a> - notes for beginner network pentesting course.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>#137 - add 'Shell plugins' section</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/edd3048666a26375395d66b9ae6bfd6e473723dc</link><description><![CDATA[##### :black_small_square: Shell plugins<br>
 <p><br>
@@ -204,17 +222,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 	<title>minor update; fix line break tag</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/72cf00a546e75ec2689ea7bf88e56b1bea26cc8b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Added ncdu to file utilities (#139)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/30e1181b1cdef0d3beadcf8193a8d83251cf173b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>added open source packet sender to the book of knowledge.</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2e2e4c0b5ca958b667af04d7789c51c9481b44d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
  ]]></description>
 </item>
 
