@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/07835faf9ae96e5a510d4af81c622204a7cb0a0b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all things that author need to pass OSCP.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'OSCPRepo'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4089baf91dc4ea0e806987ef921de5bb2ef1523b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'busybox' one-liners</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e349e40ba05a4aeba78d27bd7f5b553f6a4d1754</link><description><![CDATA[  * [busybox](#tool-busybox)<br>
 ```<br>
@@ -209,19 +219,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 <item>
 	<title>Remove duplicated NerdyData entry</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e4b0fffabf0668a36102581bcfa4ac6f6ed882a7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #140 from alex3305/add-nmon</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cb47ac7785e46de13a9e898148ac8645b5ff15a2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>minor update; fix line break tag</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/72cf00a546e75ec2689ea7bf88e56b1bea26cc8b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br><br>
  ]]></description>
 </item>
 
