@@ -4,6 +4,14 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add new stuff</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3d58b8c5b125cbf8cc8242efd342bb37ee881587</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://postgresqlco.nf/en/doc/param/"><b>POSTGRESQLCO.NF</b></a> - your postgresql.conf documentation and recommendations.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br></p><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/07835faf9ae96e5a510d4af81c622204a7cb0a0b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all things that author need to pass OSCP.<br><br>
  ]]></description>
@@ -214,11 +222,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 <item>
 	<title>Merge pull request #146 from pylipp/fix/remove-duplicate</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c6b72f3267f23f2290ee31bd89fb0f7fb7315576</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Remove duplicated NerdyData entry</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e4b0fffabf0668a36102581bcfa4ac6f6ed882a7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
  ]]></description>
 </item>
 
