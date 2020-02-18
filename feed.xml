@@ -4,6 +4,22 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #154 from acxz/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/508c6454b1dce8e63994a8a8bbf7c6b9e68ea266</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/093e64bd77d97a4510e14e8ab510909eae6df4ca</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add matrix to list of secure communication/messengers</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b35a09657238ec60abbecd8b43779f6eebe34844</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add new stuff</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3d58b8c5b125cbf8cc8242efd342bb37ee881587</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br><br>
@@ -209,19 +225,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 <item>
 	<title>add 'awesome-public-datasets'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/68441cccab81d93f8f0a7f0c12e35bb55453b06c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #148 from eioo/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7c7e6efb81d32f98e7c73a6073479688739b20b3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Hackle</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/531ae95b5fdc1b0b9196839b276f4980026a95e0</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #146 from pylipp/fix/remove-duplicate</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c6b72f3267f23f2290ee31bd89fb0f7fb7315576</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br><br>
  ]]></description>
 </item>
 
