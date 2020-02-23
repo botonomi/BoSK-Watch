@@ -4,6 +4,17 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ef6b7a8b41ea7c27694ec008cb22e8d8c5820db6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'How 1500 bytes became the MTU of the internet'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/27eba44fbbd2d757f3271a2bf0cceef774ed514f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"><b>How 1500 bytes became the MTU of the internet</b></a> - great story about the Maximum Transmission Unit.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #154 from acxz/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/508c6454b1dce8e63994a8a8bbf7c6b9e68ea266</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
@@ -215,16 +226,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 	<title>Merge pull request #135 from Cookizza/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/69567b15ca9de310513a8ef786229fc5d870a73b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - community-driven Emacs distribution that merges features and workflows of both vim and emacs.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>update description</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ae8f555617956f4298882b69ec8422ccf931eab7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'awesome-public-datasets'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/68441cccab81d93f8f0a7f0c12e35bb55453b06c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br><br>
  ]]></description>
 </item>
 
