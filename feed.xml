@@ -4,6 +4,12 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'h2spec' and 'h2t'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba213b728eda9b2a5a10f687895b6238bfbf24fd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ef6b7a8b41ea7c27694ec008cb22e8d8c5820db6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
@@ -220,12 +226,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 <item>
 	<title>remove dup; update description</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f7f3525a4930412e9859ccefde8b993a3e98f15e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #135 from Cookizza/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/69567b15ca9de310513a8ef786229fc5d870a73b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - community-driven Emacs distribution that merges features and workflows of both vim and emacs.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br><br>
  ]]></description>
 </item>
 
