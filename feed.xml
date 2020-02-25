@@ -4,6 +4,34 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2937d3a638cb3bee97656a78b5becae39859bc5f</link><description><![CDATA[# User<br>
+# Group:<br>
+ ]]></description>
+</item>
+<item>
+	<title>add new 'find' oneliners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6dd8503d060fbe523d9e7cb898d2b47c1b52c619</link><description><![CDATA[###### Find files and directories for specific user/group<br>
+# User:<br>
+find /etc -type f -user <username> -name "*.conf"<br>
+# Group:<br>
+find /opt -group <group><br>
+find /etc -type f -group <group> -iname "*.conf"<br>
+```<br>
+###### Find files and directories for all without specific user/group<br>
+```bash<br>
+# User:<br>
+find . \! -user <username> -print<br>
+# Group:<br>
+find . \! -group <group><br>
+###### Looking for files/directories that only have certain permission<br>
+# User:<br>
+find . -user <username> -perm -u+rw # -rw-r--r--<br>
+find /home -user $(whoami) -perm 777 # -rwxrwxrwx<br>
+find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'h2spec' and 'h2t'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba213b728eda9b2a5a10f687895b6238bfbf24fd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br><br>
@@ -214,18 +242,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 <item>
 	<title>move 'PortSwigger Web Security Blog' to geeky vendor blogs</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92e15ca5c3356da7d8b5d2288a20a8964bfdf3ea</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>added open source packet sender to the book of knowledge. (#142)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3bb26713565d5945ea0b2615bf7e3f3c9d99eb94</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers with an easy to use GUI.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>remove dup; update description</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f7f3525a4930412e9859ccefde8b993a3e98f15e</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetsender.com/"><b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br><br>
  ]]></description>
 </item>
 
