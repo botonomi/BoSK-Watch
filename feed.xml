@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #157 from vladc/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/186b9b38d411398500de58618a3e064d31e3d2b2</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
+ ]]></description>
+</item>
+<item>
+	<title>Optimize GetASN()</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5956e8f0e1d5779cdcdcda6396b0e55264336fe6</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2937d3a638cb3bee97656a78b5becae39859bc5f</link><description><![CDATA[# User<br>
 # Group:<br>
@@ -232,16 +242,6 @@ echo | openssl s_client -connect google.com:443 -showcerts -tlsextdebug -status<
 <item>
 	<title>minor update</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a34ea20c4982a02321b4aaee389c8b80415b1b82</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ostinato.org/"><b>Ostinato</b></a> - is a packet crafter and traffic generator.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'BGPview'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/43deb972805d69de6d8d04381ec39700ab05a83f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>move 'PortSwigger Web Security Blog' to geeky vendor blogs</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/92e15ca5c3356da7d8b5d2288a20a8964bfdf3ea</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br><br>
  ]]></description>
 </item>
 
