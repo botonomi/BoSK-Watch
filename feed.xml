@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Linux Kernel Teaching'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f043ca766c6d72d1c7cd59255524f5dcdfad9b6c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'dnsgrep' and 'rapid7 datasets'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a7347093334bf3c4a8cdf89ce16c7196efce27c9</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://opendata.rapid7.com/"><b>Rapid7 Labs Open Data</b></a> - is a great resources of datasets from Project Sonar.<br><br>
@@ -135,11 +140,6 @@ busybox httpd -p $PORT -h $HOME [-c httpd.conf]<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br><br>
 </p><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'netsniff-ng'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/71cc4e05cdbbd1e346a51e73aff5643c79381103</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br><br>
  ]]></description>
 </item>
 
