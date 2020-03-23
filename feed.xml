@@ -4,6 +4,36 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>update openssl one-liners v3</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/56166523ae73a0e3936f3966dad11f10d68d29b5</link><description><![CDATA[postalAddress          = "Keller"                 # L/postaladdress=<br>
+Example of `oids` (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under `[new_oids]`):<br>
+```<br>
+[req]<br>
+...<br>
+oid_section         = new_oids<br>
+[ new_oids ]<br>
+postalCode = 2.5.4.17<br>
+streetAddress = 2.5.4.9<br>
+```<br>
+For more information please look at these great explanations:<br>
+- [RFC 5280](https://tools.ietf.org/html/rfc5280)<br>
+- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)<br>
+- [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)<br>
+- [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)<br>
+- [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)<br>
+ ]]></description>
+</item>
+<item>
+	<title>update openssl one-liners v2</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/31a7994d6592eb87a1e5c93ec6cc36c1fdf02c77</link><description><![CDATA[  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).<br>
+ ]]></description>
+</item>
+<item>
+	<title>update openssl one-liners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ccbac8cba0e9b43cdb9ca61042a07537f196f21d</link><description><![CDATA[postalAddress          = "Keller"                 # L/postalAddress=<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Linux Kernel Teaching'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f043ca766c6d72d1c7cd59255524f5dcdfad9b6c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br><br>
  ]]></description>
@@ -111,35 +141,6 @@ find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
 <item>
 	<title>add 'OSCPRepo'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4089baf91dc4ea0e806987ef921de5bb2ef1523b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'busybox' one-liners</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e349e40ba05a4aeba78d27bd7f5b553f6a4d1754</link><description><![CDATA[  * [busybox](#tool-busybox)<br>
-```<br>
----<br>
-##### Tool: [busybox](https://www.busybox.net/)<br>
-###### Static HTTP web server<br>
-```bash<br>
-busybox httpd -p $PORT -h $HOME [-c httpd.conf]<br>
- ]]></description>
-</item>
-<item>
-	<title>add new resources</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8600bd07067608b0de6ac20b680bff2cc9aaa8db</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vedetta-com/vedetta"><b>vedetta</b></a> - OpenBSD router boilerplate.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a> - curated list of privacy respecting services and software.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a> - notes for beginner network pentesting course.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>#137 - add 'Shell plugins' section</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/edd3048666a26375395d66b9ae6bfd6e473723dc</link><description><![CDATA[##### :black_small_square: Shell plugins<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rupa/z"><b>z</b></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/junegunn/fzf"><b>fzf</b></a> - is a general-purpose command-line fuzzy finder.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br><br>
-</p><br>
  ]]></description>
 </item>
 
