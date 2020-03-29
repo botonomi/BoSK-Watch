@@ -4,6 +4,12 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'pgsync' and 'iredis'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0ce9072e1cc0889754359a41150e7755c8603947</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Linux Troubleshooting 101 , 2016 Edition'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf7d0044b29e27b750738c361b5d0e9cbfca5455</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br><br>
  ]]></description>
@@ -136,11 +142,6 @@ find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://postgresqlco.nf/en/doc/param/"><b>POSTGRESQLCO.NF</b></a> - your postgresql.conf documentation and recommendations.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br></p><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/07835faf9ae96e5a510d4af81c622204a7cb0a0b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/"><b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all things that author need to pass OSCP.<br><br>
  ]]></description>
 </item>
 
