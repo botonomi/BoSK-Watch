@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'sherlock'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cdec7c4bff2370cd810080b3e85b63ba874d2d9c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'pgsync' and 'iredis'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0ce9072e1cc0889754359a41150e7755c8603947</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br><br>
@@ -134,14 +139,6 @@ find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
 <item>
 	<title>add matrix to list of secure communication/messengers</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b35a09657238ec60abbecd8b43779f6eebe34844</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add new stuff</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3d58b8c5b125cbf8cc8242efd342bb37ee881587</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://postgresqlco.nf/en/doc/param/"><b>POSTGRESQLCO.NF</b></a> - your postgresql.conf documentation and recommendations.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br></p><br>
  ]]></description>
 </item>
 
