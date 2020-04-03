@@ -1,106 +1,144 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0"><channel>
-<title>New Free-For-Dev</title>
-<description>New Free Resources</description>
+<title>New at The Book of Secret Knowledge</title>
+<description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
-	<title>Merge pull request #1465 from sdil/add-zarvis</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d49f6eefa2f98603215caeec471a700ad4493ade</link><description><![CDATA[  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.<br>
+	<title>add 'sherlock'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cdec7c4bff2370cd810080b3e85b63ba874d2d9c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Add zarvis.ai</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e2184186edaa64faee0b6b0770dbf19fbbdc563</link><description><![CDATA[  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.<br>
+	<title>add 'pgsync' and 'iredis'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0ce9072e1cc0889754359a41150e7755c8603947</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1464 from Ziggoto/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f5bc843038e54d4f91a718c2dcfa37ee8394d9cb</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
+	<title>add 'Linux Troubleshooting 101 , 2016 Edition'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf7d0044b29e27b750738c361b5d0e9cbfca5455</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Adds Platform9 on PaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2cd9b01426bff52e1f67b6681de8b847a17a23c7</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
+	<title>update openssl one-liners v3</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/56166523ae73a0e3936f3966dad11f10d68d29b5</link><description><![CDATA[postalAddress          = "Keller"                 # L/postaladdress=<br>
+Example of `oids` (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under `[new_oids]`):<br>
+```<br>
+[req]<br>
+...<br>
+oid_section         = new_oids<br>
+[ new_oids ]<br>
+postalCode = 2.5.4.17<br>
+streetAddress = 2.5.4.9<br>
+```<br>
+For more information please look at these great explanations:<br>
+- [RFC 5280](https://tools.ietf.org/html/rfc5280)<br>
+- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)<br>
+- [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)<br>
+- [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)<br>
+- [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)<br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1463 from adisreyaj/feature-cosmosdb</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ed5de7f9d361e8fa8c13b747e5290a6a475b81e7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
+	<title>update openssl one-liners v2</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/31a7994d6592eb87a1e5c93ec6cc36c1fdf02c77</link><description><![CDATA[  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).<br>
  ]]></description>
 </item>
 <item>
-	<title>Add Azure Cosmos DB to the List</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/455534f97e3403d0986759b37b0febbb494d0de7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
+	<title>update openssl one-liners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ccbac8cba0e9b43cdb9ca61042a07537f196f21d</link><description><![CDATA[postalAddress          = "Keller"                 # L/postalAddress=<br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1459 from NurdTurd/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/64b32c8553a43a24de29af9df24ab7c01b02ad18</link><description><![CDATA[   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
+	<title>add 'Linux Kernel Teaching'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f043ca766c6d72d1c7cd59255524f5dcdfad9b6c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1461 from TugboatQA/tugboat</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5cc9e3512b3d52a52ec14bca66ec76c3f67dfd4a</link><description><![CDATA[  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.<br>
+	<title>add 'dnsgrep' and 'rapid7 datasets'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a7347093334bf3c4a8cdf89ce16c7196efce27c9</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://opendata.rapid7.com/"><b>Rapid7 Labs Open Data</b></a> - is a great resources of datasets from Project Sonar.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Add [Tugboat](https://tugboat.qa) to Teams & Collaboration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ddc914d27c5e74d35088c37d32cb4842acbe591</link><description><![CDATA[  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.<br>
+	<title>add 'OWASP Threat Dragon'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a4cc252075180d27e852bc6ce374ff31d1bd4a27</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1460 from nickfox-taterli/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/98884d65417acc721e397af8c30ada93ac1263dc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>DemosWP will closes on MAY 01, 2020</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bca75cb951bd6005677005f9bae85d1b80292a98</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Radmin VPN</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2111f8153f7cb5819135aef48c17eac608df22bc</link><description><![CDATA[   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
+	<title>add 'FreeBSD Journal'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/17dcd268708c6b57d6505edadead5115badc7019</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1458 from callmegar/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a584f6fc315641f922a4dedec8fdf2e42dd4ef22</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javaScript apps. Free for 1,000 sessions a month, 14 days retention<br>
-  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention<br>
+	<title>Merge pull request #157 from vladc/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/186b9b38d411398500de58618a3e064d31e3d2b2</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
  ]]></description>
 </item>
 <item>
-	<title>Fixed case</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a3e52958b54811a7d3da94d8e0d78792242ef98e</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention<br>
+	<title>Optimize GetASN()</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5956e8f0e1d5779cdcdcda6396b0e55264336fe6</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
  ]]></description>
 </item>
 <item>
-	<title>Adding LogRocket to Crash and Exception Handling</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8337e103fc4a06cb2ffd57fd6c018e4ac02a39ed</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javaScript apps. Free for 1,000 sessions a month, 14 days retention<br>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2937d3a638cb3bee97656a78b5becae39859bc5f</link><description><![CDATA[# User<br>
+# Group:<br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1457 from MariiaMalitska/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/986ef39c15e0bc50dc82e5bc8128e7083d7298ef</link><description><![CDATA[  * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security and more in your digital solution. Free for applications with up to 250 users.<br>
+	<title>add new 'find' oneliners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6dd8503d060fbe523d9e7cb898d2b47c1b52c619</link><description><![CDATA[###### Find files and directories for specific user/group<br>
+# User:<br>
+find /etc -type f -user <username> -name "*.conf"<br>
+# Group:<br>
+find /opt -group <group><br>
+find /etc -type f -group <group> -iname "*.conf"<br>
+```<br>
+###### Find files and directories for all without specific user/group<br>
+```bash<br>
+# User:<br>
+find . \! -user <username> -print<br>
+# Group:<br>
+find . \! -group <group><br>
+###### Looking for files/directories that only have certain permission<br>
+# User:<br>
+find . -user <username> -perm -u+rw # -rw-r--r--<br>
+find /home -user $(whoami) -perm 777 # -rwxrwxrwx<br>
+find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
  ]]></description>
 </item>
 <item>
-	<title>Add "Virgil Security" to "Security and PKI"section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ff61c8f2903fbf79cbdb53e2853ac0b496da40b5</link><description><![CDATA[  * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security and more in your digital solution. Free for applications with up to 250 users.<br>
+	<title>add 'h2spec' and 'h2t'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba213b728eda9b2a5a10f687895b6238bfbf24fd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1456 from Nciso/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bcba2c54b9640e15724287ef97ef33fd58a82c01</link><description><![CDATA[  * [Miro](https://miro.com/) - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. With freemium plan.<br>
+	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ef6b7a8b41ea7c27694ec008cb22e8d8c5820db6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Add Miro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0e71c1457681c557b79eb5d5dec2eaf9bd85cc9d</link><description><![CDATA[  * [Miro](https://miro.com/) - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. With freemium plan.<br>
+	<title>add 'How 1500 bytes became the MTU of the internet'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/27eba44fbbd2d757f3271a2bf0cceef774ed514f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"><b>How 1500 bytes became the MTU of the internet</b></a> - great story about the Maximum Transmission Unit.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>Merge pull request #1452 from howuku/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e91dda51ad2f9f388bff722345b353b08f5a2fa</link><description><![CDATA[   * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month<br>
-   * [howuku.com](https://howuku.com) — 200 sessions/month with 1 month data retention.<br>
+	<title>Merge pull request #154 from acxz/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/508c6454b1dce8e63994a8a8bbf7c6b9e68ea266</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/093e64bd77d97a4510e14e8ab510909eae6df4ca</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add matrix to list of secure communication/messengers</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b35a09657238ec60abbecd8b43779f6eebe34844</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
  ]]></description>
 </item>
 
