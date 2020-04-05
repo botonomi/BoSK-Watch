@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Cryptohack'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a3ca616eee0e5b3b65286ea5636e01dfbf925c33</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'sherlock'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cdec7c4bff2370cd810080b3e85b63ba874d2d9c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br><br>
  ]]></description>
@@ -134,11 +139,6 @@ find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
 <item>
 	<title>minor update</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/093e64bd77d97a4510e14e8ab510909eae6df4ca</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add matrix to list of secure communication/messengers</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b35a09657238ec60abbecd8b43779f6eebe34844</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
  ]]></description>
 </item>
 
