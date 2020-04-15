@@ -4,6 +4,38 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>#155 - add 'inception'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/99d7fa356711894707faf3d7101cf361bd4bdd81</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>#168 - remove Triplebyte OSS Partner Program</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3e59d65c59b50f3d9ac6f56a0cd581d694e2022d</link><description><![CDATA[****<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #167 from tuximail/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/73e738bbd5b3a289a02c3e66dd4d9faa9702f2d7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>update description</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/accc4ab29d19b32f8a0664301b98ad86088953b3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>#165 - remove scylla.sh</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1fb54b9fd4383c8d771ebcc7c0a26a4de52327fb</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added 'mosh' and 'et' as SSH alternatives for sessions over a poor in…</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/596a37d985c73922660451b197c74e31c3f0f5cb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Cryptohack'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a3ca616eee0e5b3b65286ea5636e01dfbf925c33</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br><br>
  ]]></description>
@@ -89,56 +121,6 @@ For more information please look at these great explanations:<br>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2937d3a638cb3bee97656a78b5becae39859bc5f</link><description><![CDATA[# User<br>
 # Group:<br>
- ]]></description>
-</item>
-<item>
-	<title>add new 'find' oneliners</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6dd8503d060fbe523d9e7cb898d2b47c1b52c619</link><description><![CDATA[###### Find files and directories for specific user/group<br>
-# User:<br>
-find /etc -type f -user <username> -name "*.conf"<br>
-# Group:<br>
-find /opt -group <group><br>
-find /etc -type f -group <group> -iname "*.conf"<br>
-```<br>
-###### Find files and directories for all without specific user/group<br>
-```bash<br>
-# User:<br>
-find . \! -user <username> -print<br>
-# Group:<br>
-find . \! -group <group><br>
-###### Looking for files/directories that only have certain permission<br>
-# User:<br>
-find . -user <username> -perm -u+rw # -rw-r--r--<br>
-find /home -user $(whoami) -perm 777 # -rwxrwxrwx<br>
-find /home -type d -group <group> -perm 755 # -rwxr-xr-x<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'h2spec' and 'h2t'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba213b728eda9b2a5a10f687895b6238bfbf24fd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ef6b7a8b41ea7c27694ec008cb22e8d8c5820db6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'How 1500 bytes became the MTU of the internet'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/27eba44fbbd2d757f3271a2bf0cceef774ed514f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"><b>How 1500 bytes became the MTU of the internet</b></a> - great story about the Maximum Transmission Unit.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #154 from acxz/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/508c6454b1dce8e63994a8a8bbf7c6b9e68ea266</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org//"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>minor update</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/093e64bd77d97a4510e14e8ab510909eae6df4ca</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br><br>
  ]]></description>
 </item>
 
