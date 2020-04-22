@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'ISC's Knowledgebase'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f6695e15d65c2e2ca3d067d5a15e6256e8a383d6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://kb.isc.org/docs/using-this-knowledgebase"><b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'isbgpsafeyet.com'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cfbf5ceb5ec477a6b3345dbd671392e6a0f85550</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br><br>
  ]]></description>
@@ -115,11 +120,6 @@ For more information please look at these great explanations:<br>
 <item>
 	<title>Merge pull request #157 from vladc/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/186b9b38d411398500de58618a3e064d31e3d2b2</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
- ]]></description>
-</item>
-<item>
-	<title>Optimize GetASN()</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5956e8f0e1d5779cdcdcda6396b0e55264336fe6</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
  ]]></description>
 </item>
 
