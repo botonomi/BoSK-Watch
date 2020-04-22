@@ -3,6 +3,125 @@
 <title>New at The Book of Secret Knowledge</title>
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
+<item>
+	<title>add 'isbgpsafeyet.com'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cfbf5ceb5ec477a6b3345dbd671392e6a0f85550</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>#155 - add 'inception'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/99d7fa356711894707faf3d7101cf361bd4bdd81</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>#168 - remove Triplebyte OSS Partner Program</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3e59d65c59b50f3d9ac6f56a0cd581d694e2022d</link><description><![CDATA[****<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #167 from tuximail/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/73e738bbd5b3a289a02c3e66dd4d9faa9702f2d7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>update description</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/accc4ab29d19b32f8a0664301b98ad86088953b3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>#165 - remove scylla.sh</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1fb54b9fd4383c8d771ebcc7c0a26a4de52327fb</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added 'mosh' and 'et' as SSH alternatives for sessions over a poor in…</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/596a37d985c73922660451b197c74e31c3f0f5cb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Cryptohack'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a3ca616eee0e5b3b65286ea5636e01dfbf925c33</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'sherlock'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cdec7c4bff2370cd810080b3e85b63ba874d2d9c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'pgsync' and 'iredis'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0ce9072e1cc0889754359a41150e7755c8603947</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Linux Troubleshooting 101 , 2016 Edition'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf7d0044b29e27b750738c361b5d0e9cbfca5455</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>update openssl one-liners v3</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/56166523ae73a0e3936f3966dad11f10d68d29b5</link><description><![CDATA[postalAddress          = "Keller"                 # L/postaladdress=<br>
+Example of `oids` (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under `[new_oids]`):<br>
+```<br>
+[req]<br>
+...<br>
+oid_section         = new_oids<br>
+[ new_oids ]<br>
+postalCode = 2.5.4.17<br>
+streetAddress = 2.5.4.9<br>
+```<br>
+For more information please look at these great explanations:<br>
+- [RFC 5280](https://tools.ietf.org/html/rfc5280)<br>
+- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)<br>
+- [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)<br>
+- [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)<br>
+- [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)<br>
+ ]]></description>
+</item>
+<item>
+	<title>update openssl one-liners v2</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/31a7994d6592eb87a1e5c93ec6cc36c1fdf02c77</link><description><![CDATA[  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).<br>
+ ]]></description>
+</item>
+<item>
+	<title>update openssl one-liners</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ccbac8cba0e9b43cdb9ca61042a07537f196f21d</link><description><![CDATA[postalAddress          = "Keller"                 # L/postalAddress=<br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Linux Kernel Teaching'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f043ca766c6d72d1c7cd59255524f5dcdfad9b6c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'dnsgrep' and 'rapid7 datasets'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a7347093334bf3c4a8cdf89ce16c7196efce27c9</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://opendata.rapid7.com/"><b>Rapid7 Labs Open Data</b></a> - is a great resources of datasets from Project Sonar.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'OWASP Threat Dragon'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a4cc252075180d27e852bc6ce374ff31d1bd4a27</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'FreeBSD Journal'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/17dcd268708c6b57d6505edadead5115badc7019</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #157 from vladc/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/186b9b38d411398500de58618a3e064d31e3d2b2</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
+ ]]></description>
+</item>
+<item>
+	<title>Optimize GetASN()</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5956e8f0e1d5779cdcdcda6396b0e55264336fe6</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
+ ]]></description>
+</item>
 
 </channel>
 </rss>
