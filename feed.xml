@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'OWASP WSTG'; update resources</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3a2fddd3e307fc0a76a3809ba900fad28ac65222</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/wstg"><b>OWASP WSTG</b></a> - is a comprehensive open source guide to testing the security of web apps.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'ISC's Knowledgebase'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f6695e15d65c2e2ca3d067d5a15e6256e8a383d6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://kb.isc.org/docs/using-this-knowledgebase"><b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br><br>
  ]]></description>
@@ -115,11 +120,6 @@ For more information please look at these great explanations:<br>
 <item>
 	<title>add 'FreeBSD Journal'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/17dcd268708c6b57d6505edadead5115badc7019</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #157 from vladc/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/186b9b38d411398500de58618a3e064d31e3d2b2</link><description><![CDATA[  _asn=$($_curl_base -ks -m "$_timeout" "http://ip-api.com/line/${_ip}?fields=as")<br>
  ]]></description>
 </item>
 
