@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'bashtop'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5af90a07e490d2c6096ee249e6b3872e156860cb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'OWASP WSTG'; update resources</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3a2fddd3e307fc0a76a3809ba900fad28ac65222</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/wstg"><b>OWASP WSTG</b></a> - is a comprehensive open source guide to testing the security of web apps.<br><br>
  ]]></description>
@@ -115,11 +120,6 @@ For more information please look at these great explanations:<br>
 <item>
 	<title>add 'OWASP Threat Dragon'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a4cc252075180d27e852bc6ce374ff31d1bd4a27</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'FreeBSD Journal'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/17dcd268708c6b57d6505edadead5115badc7019</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br><br>
  ]]></description>
 </item>
 
