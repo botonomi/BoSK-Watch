@@ -4,6 +4,13 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add bug bounty write-ups</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5f95c4083566cd6f67b93b97cdeaff4ffad1fa7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Practical-Ethical-Hacking-Resources'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5b207e78a163ba0f44d6a9405ca11bbcff284861</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources"><b>Practical-Ethical-Hacking-Resources</b></a> - compilation of resources from TCM's Udemy Course.<br><br>
  ]]></description>
@@ -114,12 +121,6 @@ For more information please look at these great explanations:<br>
 <item>
 	<title>add 'Linux Kernel Teaching'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f043ca766c6d72d1c7cd59255524f5dcdfad9b6c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'dnsgrep' and 'rapid7 datasets'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a7347093334bf3c4a8cdf89ce16c7196efce27c9</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://opendata.rapid7.com/"><b>Rapid7 Labs Open Data</b></a> - is a great resources of datasets from Project Sonar.<br><br>
  ]]></description>
 </item>
 
