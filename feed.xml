@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'vclFiddle'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d8dfae613bc06c85dc2305d7c4791fdf78a7a4a0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add bug bounty write-ups</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5f95c4083566cd6f67b93b97cdeaff4ffad1fa7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br><br>
@@ -116,11 +121,6 @@ For more information please look at these great explanations:<br>
 <item>
 	<title>update openssl one-liners</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ccbac8cba0e9b43cdb9ca61042a07537f196f21d</link><description><![CDATA[postalAddress          = "Keller"                 # L/postalAddress=<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Linux Kernel Teaching'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f043ca766c6d72d1c7cd59255524f5dcdfad9b6c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br><br>
  ]]></description>
 </item>
 
