@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'sha256-animation'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/673d527fde40b72f2467fe6b7d969e0a51b6f250</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a> - animation of the SHA-256 hash function in your terminal.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'vclFiddle'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d8dfae613bc06c85dc2305d7c4791fdf78a7a4a0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br><br>
  ]]></description>
@@ -116,11 +121,6 @@ For more information please look at these great explanations:<br>
 <item>
 	<title>update openssl one-liners v2</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/31a7994d6592eb87a1e5c93ec6cc36c1fdf02c77</link><description><![CDATA[  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).<br>
- ]]></description>
-</item>
-<item>
-	<title>update openssl one-liners</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ccbac8cba0e9b43cdb9ca61042a07537f196f21d</link><description><![CDATA[postalAddress          = "Keller"                 # L/postalAddress=<br>
  ]]></description>
 </item>
 
