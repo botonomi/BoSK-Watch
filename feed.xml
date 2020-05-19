@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Bug bounty writeups'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3176609a0e222849569875833e58c282b933c37b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://pentester.land/list-of-bug-bounty-writeups.html"><b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'sha256-animation'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/673d527fde40b72f2467fe6b7d969e0a51b6f250</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a> - animation of the SHA-256 hash function in your terminal.<br><br>
  ]]></description>
@@ -116,11 +121,6 @@ For more information please look at these great explanations:<br>
 - [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)<br>
 - [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)<br>
 - [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)<br>
- ]]></description>
-</item>
-<item>
-	<title>update openssl one-liners v2</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/31a7994d6592eb87a1e5c93ec6cc36c1fdf02c77</link><description><![CDATA[  > Look at these great explanations: [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html) and [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08).<br>
  ]]></description>
 </item>
 
