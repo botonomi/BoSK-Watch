@@ -4,6 +4,24 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Chrome hidden commands'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/790d26f27bbc42bda3183b4d9dd448dfd1d6a7aa</link><description><![CDATA[###### Hack Mozilla Firefox address bar<br>
+In Firefox's address bar, you can limit results by typing special characters before or after your term:<br>
+###### Chrome hidden commands<br>
+- `chrome://chrome-urls` - list of all commands<br>
+- `chrome://flags` - enable experiments and development features<br>
+- `chrome://interstitials` - errors and warnings<br>
+- `chrome://net-internals` - network internals (events, dns, cache)<br>
+- `chrome://network-errors` - network errors<br>
+- `chrome://net-export` - start logging future network activity to a file<br>
+- `chrome://safe-browsing` - safe browsing options<br>
+- `chrome://user-actions` - record all user actions<br>
+- `chrome://restart` - restart chrome<br>
+- `chrome://dino` - ERR_INTERNET_DISCONNECTED...<br>
+- `cache:<website-address>` - view the cached version of the web page<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Bug bounty writeups'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3176609a0e222849569875833e58c282b933c37b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://pentester.land/list-of-bug-bounty-writeups.html"><b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br><br>
  ]]></description>
@@ -101,26 +119,6 @@
 <item>
 	<title>add 'Linux Troubleshooting 101 , 2016 Edition'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf7d0044b29e27b750738c361b5d0e9cbfca5455</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br><br>
- ]]></description>
-</item>
-<item>
-	<title>update openssl one-liners v3</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/56166523ae73a0e3936f3966dad11f10d68d29b5</link><description><![CDATA[postalAddress          = "Keller"                 # L/postaladdress=<br>
-Example of `oids` (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under `[new_oids]`):<br>
-```<br>
-[req]<br>
-...<br>
-oid_section         = new_oids<br>
-[ new_oids ]<br>
-postalCode = 2.5.4.17<br>
-streetAddress = 2.5.4.9<br>
-```<br>
-For more information please look at these great explanations:<br>
-- [RFC 5280](https://tools.ietf.org/html/rfc5280)<br>
-- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)<br>
-- [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)<br>
-- [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)<br>
-- [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)<br>
  ]]></description>
 </item>
 
