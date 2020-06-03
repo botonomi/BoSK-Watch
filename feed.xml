@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #174 from jonasc/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/762fa288fce5a20d79028640a90fcb1f1069ec21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix broken link to Google shell style guide</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8d6c44ac744c1335c9a8d536517ce3ebdd878598</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Chrome hidden commands'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/790d26f27bbc42bda3183b4d9dd448dfd1d6a7aa</link><description><![CDATA[###### Hack Mozilla Firefox address bar<br>
 In Firefox's address bar, you can limit results by typing special characters before or after your term:<br>
@@ -108,17 +118,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 <item>
 	<title>add 'sherlock'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cdec7c4bff2370cd810080b3e85b63ba874d2d9c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'pgsync' and 'iredis'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0ce9072e1cc0889754359a41150e7755c8603947</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Linux Troubleshooting 101 , 2016 Edition'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cf7d0044b29e27b750738c361b5d0e9cbfca5455</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br><br>
  ]]></description>
 </item>
 
