@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'linux-tracing-workshop'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ea4f14ae0998253b863f5947e6027f441b148cb0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a> - examples and hands-on labs for Linux tracing tools workshops.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #174 from jonasc/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/762fa288fce5a20d79028640a90fcb1f1069ec21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br><br>
  ]]></description>
@@ -113,11 +118,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 <item>
 	<title>add 'Cryptohack'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a3ca616eee0e5b3b65286ea5636e01dfbf925c33</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'sherlock'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cdec7c4bff2370cd810080b3e85b63ba874d2d9c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br><br>
  ]]></description>
 </item>
 
