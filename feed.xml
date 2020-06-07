@@ -4,6 +4,15 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>update 'TOP Burp extensions'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/50ed84b289494c1580d743d6c95a10d3a050dd1a</link><description><![CDATA[| **`Active Scan++`** | Extends Burp's active and passive scanning capabilities. |<br>
+| **`AuthMatrix`** | A simple matrix grid to define the desired levels of access privilege. |<br>
+| **`Software Vulnerability Scanner`** | Vulnerability scanner based on vulners.com audit API. |<br>
+| **`Turbo Intruder`** | Is a powerful bruteforcing tool. |<br>
+| **`Upload Scanner`** | Upload a number of different file types, laced with different forms of payload. |<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'linux-tracing-workshop'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ea4f14ae0998253b863f5947e6027f441b148cb0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a> - examples and hands-on labs for Linux tracing tools workshops.<br><br>
  ]]></description>
@@ -113,11 +122,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 	<title>Added 'mosh' and 'et' as SSH alternatives for sessions over a poor in…</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/596a37d985c73922660451b197c74e31c3f0f5cb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Cryptohack'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a3ca616eee0e5b3b65286ea5636e01dfbf925c33</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br><br>
  ]]></description>
 </item>
 
