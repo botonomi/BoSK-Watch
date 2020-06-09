@@ -4,6 +4,18 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix TOC; add 'Extract certs from p7b'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5ce082da5f64d2adc2257faaeaae83525841e10</link><description><![CDATA[###### Extract certs from p7b<br>
+```bash<br>
+# PKCS#7 file doesn't include private keys.<br>
+( _fd_p7b="cert.p7b" ; _fd_pem="cert.pem" ; \<br>
+openssl pkcs7 -inform DER -outform PEM -in ${_fd_p7b} -print_certs > ${_fd_pem})<br>
+# or:<br>
+openssl pkcs7 -print_certs -in -in ${_fd_p7b} -out ${_fd_pem})<br>
+```<br>
+ ]]></description>
+</item>
+<item>
 	<title>update 'TOP Burp extensions'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/50ed84b289494c1580d743d6c95a10d3a050dd1a</link><description><![CDATA[| **`Active Scan++`** | Extends Burp's active and passive scanning capabilities. |<br>
 | **`AuthMatrix`** | A simple matrix grid to define the desired levels of access privilege. |<br>
@@ -117,12 +129,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 <item>
 	<title>#165 - remove scylla.sh</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1fb54b9fd4383c8d771ebcc7c0a26a4de52327fb</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added 'mosh' and 'et' as SSH alternatives for sessions over a poor in…</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/596a37d985c73922660451b197c74e31c3f0f5cb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
- ]]></description>
 </item>
 
 </channel>
