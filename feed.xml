@@ -4,6 +4,12 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'tsunami'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f1db5ad701f4ad53ac7c3ff3aef773dc4758e55f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix TOC; add 'Extract certs from p7b'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5ce082da5f64d2adc2257faaeaae83525841e10</link><description><![CDATA[###### Extract certs from p7b<br>
 ```bash<br>
@@ -125,10 +131,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 	<title>update description</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/accc4ab29d19b32f8a0664301b98ad86088953b3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
  ]]></description>
-</item>
-<item>
-	<title>#165 - remove scylla.sh</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1fb54b9fd4383c8d771ebcc7c0a26a4de52327fb</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
