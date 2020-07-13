@@ -122,10 +122,7 @@ In Firefox's address bar, you can limit results by typing special characters bef
 </item>
 <item>
 	<title>Merge pull request #167 from tuximail/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/73e738bbd5b3a289a02c3e66dd4d9faa9702f2d7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
- ]]></description>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/73e738bbd5b3a289a02c3e66dd4d9faa9702f2d7</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>update description</title>
