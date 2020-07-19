@@ -4,6 +4,43 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #171 from sakthimaan/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ebe1f65db1f91dfabd684a875a6f264c5ec3c5ed</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
+</p><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - the only cheat sheet you need.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1f4eac14f166fb986e97d775457072686976ad2f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - the only cheat sheet you need.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #169 from Julien-Broyard/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c667f5eed7c8ab5fa9167a8addbeb1c2af12ecb7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #177 from MarkusZoppelt/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c4f626c40d5196de88d0e2f41f8a31234e25c802</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google that employs genetic algorithms in order to efficiently increase code coverage of the test cases.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches, AFLfast power schedules, qemu 3.1 upgrades and laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and  more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fef77e9836d3ab34b6db0c6878906cd0f14a04bc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>added AFL and AFL++ fuzzers</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b3f06dfdfe9b7dbc66d3f9fa627ccaab7d7c7327</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google that employs genetic algorithms in order to efficiently increase code coverage of the test cases.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches, AFLfast power schedules, qemu 3.1 upgrades and laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and  more.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'tsunami'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f1db5ad701f4ad53ac7c3ff3aef773dc4758e55f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br><br>
@@ -74,8 +111,24 @@ In Firefox's address bar, you can limit results by typing special characters bef
  ]]></description>
 </item>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7e33087901c13edfb8ea1a8515a946fe7a7f8b82</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1 from oruprogrammer/oruprogrammer-patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/018767e266f6ef8b923f26f76d51c83b4409de7c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
+</p><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'vclFiddle'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d8dfae613bc06c85dc2305d7c4791fdf78a7a4a0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>cheat.sh added in All-in-one Cheat sheet section</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d11bf36f3f81c9672d0f7b1399d6ec5b39486a87</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
+</p><br>
  ]]></description>
 </item>
 <item>
@@ -83,53 +136,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5f95c4083566cd6f67b93b97cdeaff4ffad1fa7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Practical-Ethical-Hacking-Resources'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5b207e78a163ba0f44d6a9405ca11bbcff284861</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources"><b>Practical-Ethical-Hacking-Resources</b></a> - compilation of resources from TCM's Udemy Course.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'bashtop'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5af90a07e490d2c6096ee249e6b3872e156860cb</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'OWASP WSTG'; update resources</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3a2fddd3e307fc0a76a3809ba900fad28ac65222</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/wstg"><b>OWASP WSTG</b></a> - is a comprehensive open source guide to testing the security of web apps.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'ISC's Knowledgebase'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f6695e15d65c2e2ca3d067d5a15e6256e8a383d6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://kb.isc.org/docs/using-this-knowledgebase"><b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'isbgpsafeyet.com'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cfbf5ceb5ec477a6b3345dbd671392e6a0f85550</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>#155 - add 'inception'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/99d7fa356711894707faf3d7101cf361bd4bdd81</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>#168 - remove Triplebyte OSS Partner Program</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3e59d65c59b50f3d9ac6f56a0cd581d694e2022d</link><description><![CDATA[****<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #167 from tuximail/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/73e738bbd5b3a289a02c3e66dd4d9faa9702f2d7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - is similar to Mosh, but enables mouse-scrolling and tmux commands inside the SSH session. <br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>update description</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/accc4ab29d19b32f8a0664301b98ad86088953b3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br><br>
  ]]></description>
 </item>
 
