@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Maersk, me & notPetya'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874ec1b980bda0355d0b3ead9f5aca658d9ce200</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers around the world in one company?<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #171 from sakthimaan/master</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ebe1f65db1f91dfabd684a875a6f264c5ec3c5ed</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
 </p><br>
@@ -129,13 +134,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 	<title>cheat.sh added in All-in-one Cheat sheet section</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d11bf36f3f81c9672d0f7b1399d6ec5b39486a87</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
 </p><br>
- ]]></description>
-</item>
-<item>
-	<title>add bug bounty write-ups</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5f95c4083566cd6f67b93b97cdeaff4ffad1fa7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a> - is a comprehensive curated list of available Bug Bounty.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a> - is a list of bug bounty write-ups.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a> - is a curated list of bugbounty writeups.<br><br>
  ]]></description>
 </item>
 
