@@ -4,6 +4,25 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>minor updates</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7289d3c81c24fa98c97211ee73ecd840356a13a8</link><description><![CDATA[( _fd="private.key" ; _len="2048" ; \<br>
+( _ciph="aes128" ; _fd="private.key" ; _len="2048" ; \<br>
+( _fd="private.key" ; _fd_csr="request.csr" ; _len="2048" ; \<br>
+###### Print ECDSA private and public keys<br>
+```bash<br>
+( _fd="private.key" ; \<br>
+openssl ec -in ${_fd} -noout -text )<br>
+# For x25519 only extracting public key<br>
+( _fd="private.key" ; _fd_pub="public.key" ; \<br>
+openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )<br>
+```<br>
+###### Generate private key and CSR (ECC)<br>
+( _fd="domain.key" ; _fd_out="domain.crt" ; _len="2048" ; _days="365" ; \<br>
+###### Check the private key and the certificate are match<br>
+###### Check the private key and the CSR are match<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Maersk, me & notPetya'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874ec1b980bda0355d0b3ead9f5aca658d9ce200</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers around the world in one company?<br><br>
  ]]></description>
@@ -128,12 +147,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 <item>
 	<title>add 'vclFiddle'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d8dfae613bc06c85dc2305d7c4791fdf78a7a4a0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>cheat.sh added in All-in-one Cheat sheet section</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d11bf36f3f81c9672d0f7b1399d6ec5b39486a87</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
-</p><br>
  ]]></description>
 </item>
 
