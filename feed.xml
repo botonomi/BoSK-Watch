@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'linuxupskillchallenge'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/714d3955bf19e3e673c8b0dbea06e79255922da2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>minor updates</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7289d3c81c24fa98c97211ee73ecd840356a13a8</link><description><![CDATA[( _fd="private.key" ; _len="2048" ; \<br>
 ( _ciph="aes128" ; _fd="private.key" ; _len="2048" ; \<br>
@@ -142,11 +147,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 	<title>Merge pull request #1 from oruprogrammer/oruprogrammer-patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/018767e266f6ef8b923f26f76d51c83b4409de7c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
 </p><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'vclFiddle'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d8dfae613bc06c85dc2305d7c4791fdf78a7a4a0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br><br>
  ]]></description>
 </item>
 
