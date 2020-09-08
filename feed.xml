@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'ssltools'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a27ab1378e1af99e06b078e51c14679127109128</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'linuxupskillchallenge'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/714d3955bf19e3e673c8b0dbea06e79255922da2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br><br>
  ]]></description>
@@ -142,12 +147,6 @@ In Firefox's address bar, you can limit results by typing special characters bef
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7e33087901c13edfb8ea1a8515a946fe7a7f8b82</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1 from oruprogrammer/oruprogrammer-patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/018767e266f6ef8b923f26f76d51c83b4409de7c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
-</p><br>
- ]]></description>
 </item>
 
 </channel>
