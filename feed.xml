@@ -32,11 +32,7 @@ openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )<br>
 ###### Check the private key and the CSR are match<br>
  ]]></description>
 </item>
-<item>
-	<title>add 'Maersk, me & notPetya'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874ec1b980bda0355d0b3ead9f5aca658d9ce200</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers around the world in one company?<br><br>
- ]]></description>
-</item>
+
 <item>
 	<title>Merge pull request #171 from sakthimaan/master</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ebe1f65db1f91dfabd684a875a6f264c5ec3c5ed</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
