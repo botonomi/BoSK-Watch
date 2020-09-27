@@ -4,6 +4,33 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #179 from Sahith02/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ab1f8c68250703cad197436723ceba0dbe34ac7f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a> - a curated list of all machine learning algorithms and concepts.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #183 from PrinceSumberia/PrinceSumberia-patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1ee2baa194fa9072c14eaecb02b3a94c70156c8c</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://duckduckgo.com/"><b>DuckDuckGo</b></a> - the search engine that doesn't track you.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://swisscows.com/"><b>Swisscows</b></a> - privacy safe web search<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect Search</b></a> - the search engine that anonymizes your searches.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0d87c85256713b8dcd7045a53a7fae28e32e6f4b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Add more private search engines to the list</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/da2c7b463a7a27de30aaaf1039004a07af95ac21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://duckduckgo.com/"><b>DuckDuckGo</b></a> - the search engine that doesn't track you.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://swisscows.com/"><b>Swisscows</b></a> - privacy safe web search<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect Search</b></a> - the search engine that anonymizes your searches.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'ssltools'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a27ab1378e1af99e06b078e51c14679127109128</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br><br>
  ]]></description>
@@ -35,6 +62,11 @@ openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )<br>
 <item>
 	<title>add 'Maersk, me & notPetya'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874ec1b980bda0355d0b3ead9f5aca658d9ce200</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers around the world in one company?<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Added machine-learning-algorithms</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/74c1ec37ac7073959870cb398c69ee3c228f5300</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a> - a curated list of all machine learning algorithms and concepts.<br><br>
  ]]></description>
 </item>
 <item>
@@ -110,43 +142,6 @@ openssl pkcs7 -print_certs -in -in ${_fd_p7b} -out ${_fd_pem})<br>
 	<title>Merge pull request #174 from jonasc/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/762fa288fce5a20d79028640a90fcb1f1069ec21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br><br>
  ]]></description>
-</item>
-<item>
-	<title>Fix broken link to Google shell style guide</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8d6c44ac744c1335c9a8d536517ce3ebdd878598</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Chrome hidden commands'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/790d26f27bbc42bda3183b4d9dd448dfd1d6a7aa</link><description><![CDATA[###### Hack Mozilla Firefox address bar<br>
-In Firefox's address bar, you can limit results by typing special characters before or after your term:<br>
-###### Chrome hidden commands<br>
-- `chrome://chrome-urls` - list of all commands<br>
-- `chrome://flags` - enable experiments and development features<br>
-- `chrome://interstitials` - errors and warnings<br>
-- `chrome://net-internals` - network internals (events, dns, cache)<br>
-- `chrome://network-errors` - network errors<br>
-- `chrome://net-export` - start logging future network activity to a file<br>
-- `chrome://safe-browsing` - safe browsing options<br>
-- `chrome://user-actions` - record all user actions<br>
-- `chrome://restart` - restart chrome<br>
-- `chrome://dino` - ERR_INTERNET_DISCONNECTED...<br>
-- `cache:<website-address>` - view the cached version of the web page<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Bug bounty writeups'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3176609a0e222849569875833e58c282b933c37b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://pentester.land/list-of-bug-bounty-writeups.html"><b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'sha256-animation'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/673d527fde40b72f2467fe6b7d969e0a51b6f250</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a> - animation of the SHA-256 hash function in your terminal.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7e33087901c13edfb8ea1a8515a946fe7a7f8b82</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
