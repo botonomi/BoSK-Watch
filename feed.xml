@@ -4,6 +4,53 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typos</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e6ac13680e5bc447b0786b3fbe4f46e77e5037e3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dnsdb/dnsdbq"><b>dnsdbq</b></a> - API client providing access to passive DNS database systems.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zevv/lsofgraph"><b>lsofgraph</b></a> - convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ssllabs.com/ssltest/"><b>SSLLabs Server Test</b></a> - performs a deep analysis of the configuration of any SSL web server.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dev.ssllabs.com/ssltest/"><b>SSLLabs Server Test (DEV)</b></a> - performs a deep analysis of the configuration of any SSL web server.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://whynohttps.com/"><b>Why No HTTPS?</b></a> - top 100 websites by Alexa rank not automatically redirecting insecure requests.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd, and more.<b>*</b><br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.robtex.com/"><b>Robtex</b></a> - uses various sources to gather public information about IP numbers, domain names, host names, etc.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://codesandbox.io/"><b>CodeSandbox</b></a> - online code editor for web application development.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://countermail.com/"><b>CounterMail</b></a> - online email service, designed to provide maximum security and privacy.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://blackarch.org/"><b>BlackArch</b></a> - is an Arch Linux-based penetration testing distribution for penetration testers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ee.lbl.gov/"><b>LBNL's Network Research Group</b></a> - home page of the Network Research Group (NRG).<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands offered to application programs by POSIX-conformant systems.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infosecn1nja/AD-Attack-Defense"><b>AD-Attack-Defense</b></a> - attack and defend active directory using modern post exploitation activity.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a> - best practices in building High Scalability, High Availability, High Stability, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cisecurity.org/cis-benchmarks/"><b>CIS Benchmarks</b></a> - secure configuration settings for over 100 technologies, available as a free PDF.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/GrrrDog/weird_proxies/wiki"><b>Weird Proxies</b></a> - reverse proxy related attacks; it is a result of analysis of various proxies.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - should help to estimate costs of certain operations in CPU clocks.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers?<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a> - finding text to search and replace, sorting to beautifying, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a> - where some of the network sysctl variables fit into the Linux/Kernel network flow.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://wiki.archlinux.org/index.php/List_of_applications"><b>List of applications</b></a> - huge list of apps sorted by category, as a reference for those looking for packages.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=CZ3wIuvmHeM"><b>A Netflix Guide to Microservices</b></a> - alks about the chaotic and vibrant world of microservices at Netflix.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=yOyaJXpAYZQ"><b>Comparing C to machine lang</b></a> - compare a simple C app with the compiled machine code of that program.<br><br>
+Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tripwire.com/state-of-security/"><b>Tripwire State of Security</b></a> - blog featuring the latest news, trends and insights on current security issues.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://thycotic.com/company/blog/"><b>Thycotic</b></a> - where CISOs and IT Admins come to learn about industry trends, IT security, and more.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCzvJStjySZVvOBsPl-Vgj0g"><b>rev3rse security</b></a> - offensive, binary exploitation, web app security, vulnerability, hardening, red team, blue team.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.synack.com/"><b>Synack</b></a> - crowdsourced security & bug bounty programs, crowd security intelligence platform, and more.<br><br>
+| **`SuperSorter`** | Sort bookmarks recursively, delete duplicates, merge folders, and more. |<br>
+ ]]></description>
+</item>
+<item>
+	<title>#168 - remove Triplebyte OSS Partner Program</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8ae4bb9f30440a4401579978593d7d29bf82bf11</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #179 from Sahith02/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ab1f8c68250703cad197436723ceba0dbe34ac7f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a> - a curated list of all machine learning algorithms and concepts.<br><br>
  ]]></description>
@@ -131,16 +178,6 @@ openssl pkcs7 -print_certs -in -in ${_fd_p7b} -out ${_fd_pem})<br>
 | **`Software Vulnerability Scanner`** | Vulnerability scanner based on vulners.com audit API. |<br>
 | **`Turbo Intruder`** | Is a powerful bruteforcing tool. |<br>
 | **`Upload Scanner`** | Upload a number of different file types, laced with different forms of payload. |<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'linux-tracing-workshop'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ea4f14ae0998253b863f5947e6027f441b148cb0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a> - examples and hands-on labs for Linux tracing tools workshops.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #174 from jonasc/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/762fa288fce5a20d79028640a90fcb1f1069ec21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br><br>
  ]]></description>
 </item>
 
