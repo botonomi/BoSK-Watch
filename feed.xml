@@ -4,6 +4,71 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #181 from alterwolf/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fd03f2dae116385d3e87c195062fa08df9fd6168</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>WebTechSurvey</b></a> - the largest database of HTTP response headers and websites using them.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>Common Response Headers</b></a> - the largest database of HTTP response headers.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f17d84fa6a64052df49e69b894294d08b44c6429</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>Common Response Headers</b></a> - the largest database of HTTP response headers.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #185 from cesarosum/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cc3f50c84e7824efe757056ed1d5d8b8e176ef21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qubes-os.org"><b>Qubes OS</b></a> - is a security-oriented OS that uses Xen-based virtualization to create and manage isolated compartments called qubes.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qubes-os.org"><b>Qubes OS</b></a> - is a security-oriented OS that uses Xen-based virtualization.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d2ebe14f6643779954bffe4ffd7c96ee28479337</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qubes-os.org"><b>Qubes OS</b></a> - is a security-oriented OS that uses Xen-based virtualization.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #186 from Zinkuth/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba10bb49c5bcbbd7bacd3ab66829aa75810c5ae7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than nmap & automatically pipe them into Nmap.<br> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. <br> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br> <br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typos</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1effa486eb7582aae33dc93683c75f1bc09d4ac2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br> <br>
+ ]]></description>
+</item>
+<item>
+	<title>minor fixes</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bbe1287fabe99dc60f7b8b2e4090a41493197435</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/dakami"><b>@dakami</b></a> - is one of just seven people with the authority to restore the DNS root keys.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public pentest reports released by several consulting security groups.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web apps developed using Node.js.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctflearn.com/"><b>CTFlearn</b></a> - is an online platform built to help ethical hackers learn and practice their cybersecurity knowledge.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving pentest skills.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational purposes.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL tools.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e22b71d41a7f1991504b24ebf14b139a69490b99</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than nmap & automatically pipe them into Nmap.<br> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. <br> <br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Qubes OS to list of operating systems.</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0d24a4ff160bf7c9a9865c84df0a08642c4c3f24</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qubes-os.org"><b>Qubes OS</b></a> - is a security-oriented OS that uses Xen-based virtualization to create and manage isolated compartments called qubes.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typos</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e6ac13680e5bc447b0786b3fbe4f46e77e5037e3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br><br>
@@ -112,72 +177,8 @@ openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )<br>
  ]]></description>
 </item>
 <item>
-	<title>Added machine-learning-algorithms</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/74c1ec37ac7073959870cb398c69ee3c228f5300</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a> - a curated list of all machine learning algorithms and concepts.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #171 from sakthimaan/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ebe1f65db1f91dfabd684a875a6f264c5ec3c5ed</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - The only cheat sheet you need.<br><br>
-</p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - the only cheat sheet you need.<br><br>
- ]]></description>
-</item>
-<item>
 	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1f4eac14f166fb986e97d775457072686976ad2f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cheat.sh/"><b>cheat.sh</b></a> - the only cheat sheet you need.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #169 from Julien-Broyard/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c667f5eed7c8ab5fa9167a8addbeb1c2af12ecb7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #177 from MarkusZoppelt/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c4f626c40d5196de88d0e2f41f8a31234e25c802</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google that employs genetic algorithms in order to efficiently increase code coverage of the test cases.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches, AFLfast power schedules, qemu 3.1 upgrades and laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and  more.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fef77e9836d3ab34b6db0c6878906cd0f14a04bc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>added AFL and AFL++ fuzzers</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b3f06dfdfe9b7dbc66d3f9fa627ccaab7d7c7327</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/AFL"><b>AFL</b></a> - is a free software fuzzer maintained by Google that employs genetic algorithms in order to efficiently increase code coverage of the test cases.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a> - is AFL with community patches, AFLfast power schedules, qemu 3.1 upgrades and laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and  more.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'tsunami'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f1db5ad701f4ad53ac7c3ff3aef773dc4758e55f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix TOC; add 'Extract certs from p7b'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b5ce082da5f64d2adc2257faaeaae83525841e10</link><description><![CDATA[###### Extract certs from p7b<br>
-```bash<br>
-# PKCS#7 file doesn't include private keys.<br>
-( _fd_p7b="cert.p7b" ; _fd_pem="cert.pem" ; \<br>
-openssl pkcs7 -inform DER -outform PEM -in ${_fd_p7b} -print_certs > ${_fd_pem})<br>
-# or:<br>
-openssl pkcs7 -print_certs -in -in ${_fd_p7b} -out ${_fd_pem})<br>
-```<br>
- ]]></description>
-</item>
-<item>
-	<title>update 'TOP Burp extensions'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/50ed84b289494c1580d743d6c95a10d3a050dd1a</link><description><![CDATA[| **`Active Scan++`** | Extends Burp's active and passive scanning capabilities. |<br>
-| **`AuthMatrix`** | A simple matrix grid to define the desired levels of access privilege. |<br>
-| **`Software Vulnerability Scanner`** | Vulnerability scanner based on vulners.com audit API. |<br>
-| **`Turbo Intruder`** | Is a powerful bruteforcing tool. |<br>
-| **`Upload Scanner`** | Upload a number of different file types, laced with different forms of payload. |<br>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2b3c19a5cc374fb27993a37932e7b2f94d3b1d4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>WebTechSurvey</b></a> - the largest database of HTTP response headers and websites using them.<br><br>
  ]]></description>
 </item>
 
