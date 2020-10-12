@@ -4,6 +4,20 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #187 from unixorn/add-zsh-plugin-list</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8ada0b82edb75ca210350cdc5f0cfa5b12ae96fd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Add link to Awesome ZSH plugins list</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f07d8148bdfc01451a56163d11f5491ddc71641d</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #181 from alterwolf/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fd03f2dae116385d3e87c195062fa08df9fd6168</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>WebTechSurvey</b></a> - the largest database of HTTP response headers and websites using them.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>Common Response Headers</b></a> - the largest database of HTTP response headers.<br><br>
@@ -169,16 +183,6 @@ openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )<br>
 ( _fd="domain.key" ; _fd_out="domain.crt" ; _len="2048" ; _days="365" ; \<br>
 ###### Check the private key and the certificate are match<br>
 ###### Check the private key and the CSR are match<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Maersk, me & notPetya'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874ec1b980bda0355d0b3ead9f5aca658d9ce200</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers around the world in one company?<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b2b3c19a5cc374fb27993a37932e7b2f94d3b1d4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://webtechsurvey.com/common-response-headers"><b>WebTechSurvey</b></a> - the largest database of HTTP response headers and websites using them.<br><br>
  ]]></description>
 </item>
 
