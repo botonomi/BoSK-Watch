@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Ebooks' chapter; minor updates</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/41ad382891d5d8e3d4361998a8a2a676b757ed87</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/"><b>gnulinux.guru</b></a> - collection of cheat sheets about bash, vim and networking.<br><br>
+</p><br>
+##### :black_small_square: Ebooks<br>
+<p><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/EbookFoundation/free-programming-books"><b>free-programming-books</b></a> - list of free learning resources in many languages.<br><br>
+</p><br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #187 from unixorn/add-zsh-plugin-list</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8ada0b82edb75ca210350cdc5f0cfa5b12ae96fd</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br><br>
@@ -164,25 +174,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 <item>
 	<title>add 'linuxupskillchallenge'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/714d3955bf19e3e673c8b0dbea06e79255922da2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>minor updates</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7289d3c81c24fa98c97211ee73ecd840356a13a8</link><description><![CDATA[( _fd="private.key" ; _len="2048" ; \<br>
-( _ciph="aes128" ; _fd="private.key" ; _len="2048" ; \<br>
-( _fd="private.key" ; _fd_csr="request.csr" ; _len="2048" ; \<br>
-###### Print ECDSA private and public keys<br>
-```bash<br>
-( _fd="private.key" ; \<br>
-openssl ec -in ${_fd} -noout -text )<br>
-# For x25519 only extracting public key<br>
-( _fd="private.key" ; _fd_pub="public.key" ; \<br>
-openssl pkey -in ${_fd} -pubout -out ${_fd_pub} )<br>
-```<br>
-###### Generate private key and CSR (ECC)<br>
-( _fd="domain.key" ; _fd_out="domain.crt" ; _len="2048" ; _days="365" ; \<br>
-###### Check the private key and the certificate are match<br>
-###### Check the private key and the CSR are match<br>
  ]]></description>
 </item>
 
