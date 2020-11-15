@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'littleosbook'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/77cf20e22768d4614686a89cec9b38cb8509aebf</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://littleosbook.github.io/"><b>littleosbook</b></a> - the little book about OS development.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Ebooks' chapter; minor updates</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/41ad382891d5d8e3d4361998a8a2a676b757ed87</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/"><b>gnulinux.guru</b></a> - collection of cheat sheets about bash, vim and networking.<br><br>
 </p><br>
@@ -169,11 +174,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 <item>
 	<title>add 'ssltools'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a27ab1378e1af99e06b078e51c14679127109128</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'linuxupskillchallenge'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/714d3955bf19e3e673c8b0dbea06e79255922da2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br><br>
  ]]></description>
 </item>
 
