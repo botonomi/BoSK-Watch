@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'nip.io'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/80e4a1969bd8943bbd3327a41119de42382218dc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'zorexeye'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7f7cb13844e07ec2b863e411a6578fe35a2a1215</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://zorexeye.com/"><b>zorexeye</b></a> - search for sites, images, apps, softwares & more.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'littleosbook'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/77cf20e22768d4614686a89cec9b38cb8509aebf</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://littleosbook.github.io/"><b>littleosbook</b></a> - the little book about OS development.<br><br>
  ]]></description>
@@ -161,19 +171,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 <item>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0d87c85256713b8dcd7045a53a7fae28e32e6f4b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Add more private search engines to the list</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/da2c7b463a7a27de30aaaf1039004a07af95ac21</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://duckduckgo.com/"><b>DuckDuckGo</b></a> - the search engine that doesn't track you.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://swisscows.com/"><b>Swisscows</b></a> - privacy safe web search<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect Search</b></a> - the search engine that anonymizes your searches.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'ssltools'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a27ab1378e1af99e06b078e51c14679127109128</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br><br>
  ]]></description>
 </item>
 
