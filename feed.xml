@@ -4,6 +4,10 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9aef3f15136ff17dae975a170186f25471ae02b6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add 'nip.io'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/80e4a1969bd8943bbd3327a41119de42382218dc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br><br>
  ]]></description>
@@ -166,11 +170,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect Search</b></a> - the search engine that anonymizes your searches.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0d87c85256713b8dcd7045a53a7fae28e32e6f4b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br><br>
  ]]></description>
 </item>
 
