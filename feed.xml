@@ -4,6 +4,17 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Linux Hardening Guide'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bfdff357b4c6b2baae05a92ac9cecfd91740cca8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html"><b>Linux Hardening Guide</b></a> - how to harden Linux as much as possible for security and privacy.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add new resources (crypto)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ad070112980d6b8a6f2006b5d0c70f3abd4f7080</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Cryptopals' - crypto challenges</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874be6ac77f21841d3ca019f1666f8d8b70e8493</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptopals.com/"><b>Cryptopals</b></a> - the cryptopals crypto challenges.<br><br>
  ]]></description>
@@ -157,15 +168,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCzvJStjySZVvOBsPl-Vgj0g"><b>rev3rse security</b></a> - offensive, binary exploitation, web app security, vulnerability, hardening, red team, blue team.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.synack.com/"><b>Synack</b></a> - crowdsourced security & bug bounty programs, crowd security intelligence platform, and more.<br><br>
 | **`SuperSorter`** | Sort bookmarks recursively, delete duplicates, merge folders, and more. |<br>
- ]]></description>
-</item>
-<item>
-	<title>#168 - remove Triplebyte OSS Partner Program</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8ae4bb9f30440a4401579978593d7d29bf82bf11</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #179 from Sahith02/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ab1f8c68250703cad197436723ceba0dbe34ac7f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a> - a curated list of all machine learning algorithms and concepts.<br><br>
  ]]></description>
 </item>
 
