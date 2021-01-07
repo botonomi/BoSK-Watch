@@ -4,6 +4,16 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add new subsection: docker security</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7bad5b2410e7c8ab70d9aa6a01ca6b90c45b9a69</link><description><![CDATA[##### :black_small_square: Security<br>
+<p><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - is a script that checks for dozens of common best-practices around deploying Docker.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br><br>
+</p><br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typos v2</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d1228c1b698904be0bd5ea16dc4c2f642d613d34</link><description><![CDATA[plaintext :arrow_right: hash<br><br>
 hash :no_entry: plaintext<br>
@@ -136,24 +146,6 @@ text :arrow_left: encoded<br>
 	<title>fix typos</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1effa486eb7582aae33dc93683c75f1bc09d4ac2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br> <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br> <br>
- ]]></description>
-</item>
-<item>
-	<title>minor fixes</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bbe1287fabe99dc60f7b8b2e4090a41493197435</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/dakami"><b>@dakami</b></a> - is one of just seven people with the authority to restore the DNS root keys.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a> - dictionary of attack patterns and primitives for black-box application fault injection.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public pentest reports released by several consulting security groups.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project"><b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web apps developed using Node.js.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://ctflearn.com/"><b>CTFlearn</b></a> - is an online platform built to help ethical hackers learn and practice their cybersecurity knowledge.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving pentest skills.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational purposes.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL tools.<br><br>
  ]]></description>
 </item>
 
