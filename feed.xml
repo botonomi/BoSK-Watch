@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'fakenamegenerator'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5e7b4d868ef4bea0eda98c00c2b217526440ad15</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add new subsection: docker security</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7bad5b2410e7c8ab70d9aa6a01ca6b90c45b9a69</link><description><![CDATA[##### :black_small_square: Security<br>
 <p><br>
@@ -139,12 +144,6 @@ text :arrow_left: encoded<br>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba10bb49c5bcbbd7bacd3ab66829aa75810c5ae7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than nmap & automatically pipe them into Nmap.<br> <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. <br> <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br> <br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br> <br>
- ]]></description>
-</item>
-<item>
-	<title>fix typos</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1effa486eb7582aae33dc93683c75f1bc09d4ac2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br> <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br> <br>
  ]]></description>
 </item>
