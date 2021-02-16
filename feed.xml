@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add desc (tls search engine)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c3b1253aaf7b176f0d72e8c2b565c2d996ad784f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a>- cipher suite search engine.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'fakenamegenerator'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5e7b4d868ef4bea0eda98c00c2b217526440ad15</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br><br>
  ]]></description>
@@ -137,14 +142,6 @@ text :arrow_left: encoded<br>
 <item>
 	<title>minor update</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d2ebe14f6643779954bffe4ffd7c96ee28479337</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qubes-os.org"><b>Qubes OS</b></a> - is a security-oriented OS that uses Xen-based virtualization.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #186 from Zinkuth/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ba10bb49c5bcbbd7bacd3ab66829aa75810c5ae7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than nmap & automatically pipe them into Nmap.<br> <br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. <br> <br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br> <br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br> <br>
  ]]></description>
 </item>
 
