@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'macos_security'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/abb586b22a2016fd2d1d4e3e4ef4aac018f29961</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a> - macOS Security Compliance Project.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'HolyTips'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8c032c182c0331b58d58f28ffca477362eaf02b4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/HolyBugx/HolyTips"><b>HolyTips</b></a> - tips and tutorials on Bug Bounty Hunting and Web App Security.<br><br>
  ]]></description>
@@ -137,16 +142,6 @@ text :arrow_left: encoded<br>
 <item>
 	<title>add 'littleosbook'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/77cf20e22768d4614686a89cec9b38cb8509aebf</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://littleosbook.github.io/"><b>littleosbook</b></a> - the little book about OS development.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Ebooks' chapter; minor updates</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/41ad382891d5d8e3d4361998a8a2a676b757ed87</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://gnulinux.guru/"><b>gnulinux.guru</b></a> - collection of cheat sheets about bash, vim and networking.<br><br>
-</p><br>
-##### :black_small_square: Ebooks<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/EbookFoundation/free-programming-books"><b>free-programming-books</b></a> - list of free learning resources in many languages.<br><br>
-</p><br>
  ]]></description>
 </item>
 
