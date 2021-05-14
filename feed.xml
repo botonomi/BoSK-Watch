@@ -4,6 +4,68 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>minor updates (fix typos)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bca31ece702e693673626f7987c6e55f2ddab3b5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://0day.today/"><b>0day.today</b></a> - exploits market provides you the possibility to buy/sell zero-day exploits.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/EmeraldOnion"><b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - checks for dozens of common best-practices around deploying Docker.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a> - how to improve NGINX performance, security and other important things.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a> - Front-End Performance Checklist that runs faster than the others.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=CZ3wIuvmHeM"><b>A Netflix Guide to Microservices</b></a> - talks about the chaotic and vibrant world of microservices at Netflix.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://scotthelme.co.uk/"><b>Scott Helme</b></a> - security researcher, speaker and founder of securityheaders.com and report-uri.com.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCzvJStjySZVvOBsPl-Vgj0g"><b>rev3rse security</b></a> - offensive, binary exploitation, web app security, hardening, red team, blue team.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a> - hacking & penetration testing & red team & cyber security resources.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical stuff about the many different variants of the SQL Injection.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/89b9b846be4b6c6161d2ca61335baf588e80ae43</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - this tool looks for randomly generated data from Shodan.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>remove 'Support' chapter</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/df93f878bc041b56859c774658ba7da304b80050</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #195 from Luci-d/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/74bd0307b9c92d410e7d331ef15d900f51e686e8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>minor update</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/54f1ecaecb6afc41854cfbcbc01ac5fb8301d403</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #203 from jony4/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/98401726568ada6d4c24371045325bb77e0bbf86</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is A fast, cross-platform, OpenGL terminal emulator.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>fix typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4208a50ee7fab77a85ae98ed0d050ce930ab70e7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #205 from Himura2la/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a87d2ad87bd6619056962ee878c2932993ccd570</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Replace a paid password manager with the free software</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/563a0b390330712b7121d41d44a9efffa88d0c50</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>add Alacritty</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cda63008a25ed8825e49934b34fe373791a02b71</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is A fast, cross-platform, OpenGL terminal emulator.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'macos_security'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/abb586b22a2016fd2d1d4e3e4ef4aac018f29961</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a> - macOS Security Compliance Project.<br><br>
  ]]></description>
@@ -60,88 +122,8 @@
  ]]></description>
 </item>
 <item>
-	<title>add new subsection: docker security</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7bad5b2410e7c8ab70d9aa6a01ca6b90c45b9a69</link><description><![CDATA[##### :black_small_square: Security<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - is a script that checks for dozens of common best-practices around deploying Docker.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br><br>
-</p><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typos v2</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/d1228c1b698904be0bd5ea16dc4c2f642d613d34</link><description><![CDATA[plaintext :arrow_right: hash<br><br>
-hash :no_entry: plaintext<br>
- ]]></description>
-</item>
-<item>
-	<title>fix typos</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6a33e821578fbc6da78b2c264d1d5985c748815b</link><description><![CDATA[_Hashing_<br>
-hash :no_entry: plaintext<br><br>
-_Symmetric encryption_<br>
-plaintext :arrow_right: :key: :arrow_right: ciphertext<br><br>
-plaintext :arrow_left: :key: :arrow_left: ciphertext<br><br>
-_Asymmetric encryption_<br>
-plaintext :arrow_right: :key: :arrow_right: ciphertext<br><br>
-plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext<br><br>
-(:key: public key, :part_alternation_mark: private key)<br><br>
-_Encoding_<br>
-text :arrow_right: encoded<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Hashing, encryption and encoding'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/2f42e73242ea54037c845b3d6e23e54d25a7381a</link><description><![CDATA[###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))<br>
-**Hashing**<br>
-hash :no_entry: plaintext<br>
-plaintext :arrow_right: hash<br>
-**Symmetric encryption**<br>
-plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
-plaintext :arrow_left: :key: :arrow_left: ciphertext<br>
-(:key: shared key)<br>
-**Asymmetric encryption**<br>
-plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
-plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext<br>
-(:key: public key, :part_alternation_mark: private key)<br>
-**Encoding**<br>
-text :arrow_right: encoded<br>
-text :arrow_left: encoded<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Linux Hardening Guide'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bfdff357b4c6b2baae05a92ac9cecfd91740cca8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html"><b>Linux Hardening Guide</b></a> - how to harden Linux as much as possible for security and privacy.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add new resources (crypto)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ad070112980d6b8a6f2006b5d0c70f3abd4f7080</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Cryptopals' - crypto challenges</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/874be6ac77f21841d3ca019f1666f8d8b70e8493</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptopals.com/"><b>Cryptopals</b></a> - the cryptopals crypto challenges.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9aef3f15136ff17dae975a170186f25471ae02b6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add 'nip.io'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/80e4a1969bd8943bbd3327a41119de42382218dc</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'zorexeye'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7f7cb13844e07ec2b863e411a6578fe35a2a1215</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://zorexeye.com/"><b>zorexeye</b></a> - search for sites, images, apps, softwares & more.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'littleosbook'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/77cf20e22768d4614686a89cec9b38cb8509aebf</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://littleosbook.github.io/"><b>littleosbook</b></a> - the little book about OS development.<br><br>
+	<title>Updated with new search engine</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c2d303074891b1febaf12892d22d5d327c52bff7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
  ]]></description>
 </item>
 
