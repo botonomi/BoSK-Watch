@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'KONTRA'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/859063552d0a42eaea6e2b104b29a3070ac0fa77</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://application.security/"><b>KONTRA</b></a> - application security training (OWASP Top Web & Api).<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>minor updates (fix typos)</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bca31ece702e693673626f7987c6e55f2ddab3b5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://0day.today/"><b>0day.today</b></a> - exploits market provides you the possibility to buy/sell zero-day exploits.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/EmeraldOnion"><b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br><br>
@@ -119,11 +124,6 @@
 <item>
 	<title>add 'fakenamegenerator'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5e7b4d868ef4bea0eda98c00c2b217526440ad15</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Updated with new search engine</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c2d303074891b1febaf12892d22d5d327c52bff7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
  ]]></description>
 </item>
 
