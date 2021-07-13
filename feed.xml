@@ -4,6 +4,57 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>fix typo (url)</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e7e34de14bbb22c8f9eda3363f9beee6e11f99c2</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b></a> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #219 from Meir017/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db69c2c12ca25940e1d2d68e57d2cfcb5480a404</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #220 from camilonova/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/524ee94bfc84a68add147a8441e6a9380643438c</link><description><![CDATA[awk 'length < 80' filename<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #222 from Alekhine51/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6d226648d9898d58bdb0f1186798e7914156f6d0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://libera.chat/"><b>#Libera</b></a> - Free IRC network hosted by a Swiss non-profit. Used by many projects.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>remove libera.ch</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/dc9d28e750023cfb005a374e9706b31ec58388d3</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #223 from lucasgonze/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7c6ba1d7f444f048611c0e825690bc058ef5efda</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Delete fakeface - fixes #216</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5c4642ae728a4ee162a5f6a2338afd78981f642a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Fixes typo</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f911680d0cb356c4822dd01b6e5bf8bee35923fd</link><description><![CDATA[awk 'length < 80' filename<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add mssql-cli</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1349a53f47ba2b013b29cf7c4de63148365e4715</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/13991e83adee30a4125e7944abe5682ff75d50da</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://libera.chat/"><b>#Libera</b></a> - Free IRC network hosted by a Swiss non-profit. Used by many projects.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'KONTRA'</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/859063552d0a42eaea6e2b104b29a3070ac0fa77</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://application.security/"><b>KONTRA</b></a> - application security training (OWASP Top Web & Api).<br><br>
  ]]></description>
@@ -63,67 +114,6 @@
 <item>
 	<title>Replace a paid password manager with the free software</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/563a0b390330712b7121d41d44a9efffa88d0c50</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add Alacritty</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/cda63008a25ed8825e49934b34fe373791a02b71</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is A fast, cross-platform, OpenGL terminal emulator.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'macos_security'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/abb586b22a2016fd2d1d4e3e4ef4aac018f29961</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a> - macOS Security Compliance Project.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'HolyTips'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/8c032c182c0331b58d58f28ffca477362eaf02b4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/HolyBugx/HolyTips"><b>HolyTips</b></a> - tips and tutorials on Bug Bounty Hunting and Web App Security.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' of github.com:trimstray/the-book-of-secret-know…</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3ed1274b10154517a96c40b4eaf9d61c23ccfa3c</link><description><![CDATA[##### :black_small_square: Productivity<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br><br>
-</p<br>
-</p><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #197 from cherkavi/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/73a4a0c0b7d03f051954e1f69b7254dbff7c7448</link><description><![CDATA[##### :black_small_square: Productivity<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br><br>
-</p<br>
-</p><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/0588c43bba6d64b62e86ae3dcb238389c84c7647</link><description><![CDATA[</p><br>
- ]]></description>
-</item>
-<item>
-	<title>todo list</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/00c7e6347fd471e423f23709fa25064f0ab82f57</link><description><![CDATA[##### :black_small_square: Productivity<br>
-<p><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br><br>
-</p<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'awesome-shodan-queries'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/19d635e21f81578a6ed980f59c9c7ad798ee45d6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a> - great search queries to plug into Shodan.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add desc (tls search engine)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c3b1253aaf7b176f0d72e8c2b565c2d996ad784f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a>- cipher suite search engine.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>add 'fakenamegenerator'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5e7b4d868ef4bea0eda98c00c2b217526440ad15</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br><br>
  ]]></description>
 </item>
 
