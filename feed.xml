@@ -4,6 +4,53 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>add 'Object Identifiers' from OpenSSL</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7fcde29b809cff193cdf9c12a1b492aa3e33858b</link><description><![CDATA[Full example:<br>
+```bash<br>
+( _fd="private.key" ; _fd_csr="request.csr" ; \<br>
+openssl req -new -sha256 -key ${_fd} -out ${_fd_csr} \<br>
+-config <(<br>
+cat << __EOF__<br>
+[req]<br>
+default_bits        = 2048<br>
+default_md          = sha256<br>
+prompt              = no<br>
+distinguished_name  = dn<br>
+req_extensions      = req_ext<br>
+oid_section         = new_oids<br>
+[ new_oids ]<br>
+serialNumber = 2.5.4.5<br>
+streetAddress = 2.5.4.9<br>
+postalCode = 2.5.4.17<br>
+businessCategory = 2.5.4.15<br>
+[ dn ]<br>
+serialNumber=00001111<br>
+businessCategory=Private Organization<br>
+jurisdictionC=DE<br>
+C=DE<br>
+ST=Hessen<br>
+L=Keller<br>
+postalCode=424242<br>
+streetAddress=Crater 1621<br>
+O=AV Company<br>
+OU=IT<br>
+CN=example.com<br>
+[ req_ext ]<br>
+subjectAltName = @alt_names<br>
+[ alt_names ]<br>
+DNS.1 = example.com<br>
+__EOF__<br>
+))<br>
+```<br>
+- [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt)<br>
+ ]]></description>
+</item>
+<item>
+	<title>add 'Object Identifiers'</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/dae3039b2b181ee5891f928b018960378da1fdee</link><description><![CDATA[- [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typo (url)</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e7e34de14bbb22c8f9eda3363f9beee6e11f99c2</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b></a> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
  ]]></description>
@@ -104,16 +151,6 @@
 <item>
 	<title>fix typo</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4208a50ee7fab77a85ae98ed0d050ce930ab70e7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #205 from Himura2la/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/a87d2ad87bd6619056962ee878c2932993ccd570</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Replace a paid password manager with the free software</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/563a0b390330712b7121d41d44a9efffa88d0c50</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br><br>
  ]]></description>
 </item>
 
