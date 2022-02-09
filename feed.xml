@@ -4,6 +4,11 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>uncommited changes</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/201b76eab34d76c63c5a980935b7064f0d73aed3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://sha256algorithm.com/"><b>sha256algorithm</b></a> - sha256 algorithm explained online step by step visually.<br><br>
+ ]]></description>
+</item>
+<item>
 	<title>add 'Object Identifiers' from OpenSSL</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7fcde29b809cff193cdf9c12a1b492aa3e33858b</link><description><![CDATA[Full example:<br>
 ```bash<br>
@@ -146,11 +151,6 @@ __EOF__<br>
 	<title>Merge pull request #203 from jony4/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/98401726568ada6d4c24371045325bb77e0bbf86</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is A fast, cross-platform, OpenGL terminal emulator.<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/4208a50ee7fab77a85ae98ed0d050ce930ab70e7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br><br>
  ]]></description>
 </item>
 
