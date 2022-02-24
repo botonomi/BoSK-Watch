@@ -4,152 +4,110 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
-	<title>add 'Houdini'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b64b18fcf526d5ee722aed8fd7226f0345647469</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://houdini.secsi.io/"><b>Houdini</b></a> - hundreds of offensive and useful docker images for network intrusion.<br><br>
+	<title>Merge pull request #294 from pratik-devkota/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/12da91205abfe8c7a088241bc05418df0f9e0fc2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.privacyguides.org/"><b>privacyguides.org</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>uncommited changes</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/201b76eab34d76c63c5a980935b7064f0d73aed3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://sha256algorithm.com/"><b>sha256algorithm</b></a> - sha256 algorithm explained online step by step visually.<br><br>
+	<title>Merge pull request #286 from jcamiel/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e22f036a6126fee5765d887ccec8edec94855482</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://hurl.dev"><b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>add 'Object Identifiers' from OpenSSL</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7fcde29b809cff193cdf9c12a1b492aa3e33858b</link><description><![CDATA[Full example:<br>
-```bash<br>
-( _fd="private.key" ; _fd_csr="request.csr" ; \<br>
-openssl req -new -sha256 -key ${_fd} -out ${_fd_csr} \<br>
--config <(<br>
-cat << __EOF__<br>
-[req]<br>
-default_bits        = 2048<br>
-default_md          = sha256<br>
-prompt              = no<br>
-distinguished_name  = dn<br>
-req_extensions      = req_ext<br>
-oid_section         = new_oids<br>
-[ new_oids ]<br>
-serialNumber = 2.5.4.5<br>
-streetAddress = 2.5.4.9<br>
-postalCode = 2.5.4.17<br>
-businessCategory = 2.5.4.15<br>
-[ dn ]<br>
-serialNumber=00001111<br>
-businessCategory=Private Organization<br>
-jurisdictionC=DE<br>
-C=DE<br>
-ST=Hessen<br>
-L=Keller<br>
-postalCode=424242<br>
-streetAddress=Crater 1621<br>
-O=AV Company<br>
-OU=IT<br>
-CN=example.com<br>
-[ req_ext ]<br>
-subjectAltName = @alt_names<br>
-[ alt_names ]<br>
-DNS.1 = example.com<br>
-__EOF__<br>
-))<br>
-```<br>
-- [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt)<br>
- ]]></description>
-</item>
-<item>
-	<title>add 'Object Identifiers'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/dae3039b2b181ee5891f928b018960378da1fdee</link><description><![CDATA[- [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)<br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo (url)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e7e34de14bbb22c8f9eda3363f9beee6e11f99c2</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b></a> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #219 from Meir017/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db69c2c12ca25940e1d2d68e57d2cfcb5480a404</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #220 from camilonova/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/524ee94bfc84a68add147a8441e6a9380643438c</link><description><![CDATA[awk 'length < 80' filename<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #222 from Alekhine51/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/6d226648d9898d58bdb0f1186798e7914156f6d0</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://libera.chat/"><b>#Libera</b></a> - Free IRC network hosted by a Swiss non-profit. Used by many projects.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>remove libera.ch</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/dc9d28e750023cfb005a374e9706b31ec58388d3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #223 from lucasgonze/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7c6ba1d7f444f048611c0e825690bc058ef5efda</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Delete fakeface - fixes #216</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5c4642ae728a4ee162a5f6a2338afd78981f642a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Fixes typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/f911680d0cb356c4822dd01b6e5bf8bee35923fd</link><description><![CDATA[awk 'length < 80' filename<br>
- ]]></description>
-</item>
-<item>
-	<title>Add mssql-cli</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1349a53f47ba2b013b29cf7c4de63148365e4715</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b> - SQL Server CLI with autocompletion and syntax highlighting.<br><br>
+	<title>Merge pull request #250 from crypt0rr/tlscan</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/78df09a91df3c4ff70643a38bbab8b7e13e9e6b6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - Pure python, SSL/TLS protocol and cipher scanner/enumerator.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - pure python, SSL/TLS protocol and cipher scanner/enumerator.<br><br>
  ]]></description>
 </item>
 <item>
 	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/13991e83adee30a4125e7944abe5682ff75d50da</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://cutter.re/"><b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://libera.chat/"><b>#Libera</b></a> - Free IRC network hosted by a Swiss non-profit. Used by many projects.<br><br>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/18fe986635a10a5038b7f9a4b792dbdb97c39317</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - pure python, SSL/TLS protocol and cipher scanner/enumerator.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>add 'KONTRA'</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/859063552d0a42eaea6e2b104b29a3070ac0fa77</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://application.security/"><b>KONTRA</b></a> - application security training (OWASP Top Web & Api).<br><br>
+	<title>Merge pull request #249 from crypt0rr/vaultwarden</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/3ebe4cdde380e95ec4a3fa7823975c9a8377e0e6</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>minor updates (fix typos)</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/bca31ece702e693673626f7987c6e55f2ddab3b5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://0day.today/"><b>0day.today</b></a> - exploits market provides you the possibility to buy/sell zero-day exploits.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/EmeraldOnion"><b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - checks for dozens of common best-practices around deploying Docker.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a> - how to improve NGINX performance, security and other important things.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a> - Front-End Performance Checklist that runs faster than the others.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/watch?v=CZ3wIuvmHeM"><b>A Netflix Guide to Microservices</b></a> - talks about the chaotic and vibrant world of microservices at Netflix.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://scotthelme.co.uk/"><b>Scott Helme</b></a> - security researcher, speaker and founder of securityheaders.com and report-uri.com.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCzvJStjySZVvOBsPl-Vgj0g"><b>rev3rse security</b></a> - offensive, binary exploitation, web app security, hardening, red team, blue team.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a> - hacking & penetration testing & red team & cyber security resources.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical stuff about the many different variants of the SQL Injection.<br><br>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/983ce7ec1ef49c6465b096d9568ac395ce3081f5</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>fix typo</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/89b9b846be4b6c6161d2ca61335baf588e80ae43</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - this tool looks for randomly generated data from Shodan.<br><br>
+	<title>Merge pull request #248 from crypt0rr/ssl-cert-checker</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/080fe9dd36d43ea2a6d8f80bfbf40000e7250472</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>remove 'Support' chapter</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/df93f878bc041b56859c774658ba7da304b80050</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #195 from Luci-d/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/74bd0307b9c92d410e7d331ef15d900f51e686e8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
+	<title>Merge pull request #237 from groosg/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/b66730d3b8d26cd8108b5b0a0fde5485690eb5d3</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br><br>
  ]]></description>
 </item>
 <item>
-	<title>minor update</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/54f1ecaecb6afc41854cfbcbc01ac5fb8301d403</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://spyse.com/"><b>Spyse</b></a> - Internet assets registry: networks, threats, web objects, etc.<br><br>
+	<title>Merge pull request #234 from oSumAtrIX/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/026cebcdec96ca383352694b3cdea06b92721baa</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://andreasbm.github.io/web-skills/"><b>Web Skills</b></a> - visual overview of useful skills to learn as a web developer.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #231 from JosiahRaySmith/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1c247e1bb9c6ad9106ba936a9144444cab460f43</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://labs.inquest.net"><b>InQuest Labs</b></a> - InQuest Labs is an open, interactive, and API driven data portal for security researchers.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #229 from Snickasaurus/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/5ee4527837724c7e11d0f831fb6a0e60b89a103b</link><description><![CDATA[  &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #225 from P403n1x87/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/64dc7e88284cdc5247286b89e45165b75273e8d7</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #217 from PabloLec/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e84a9ae4e2ee44a6f3cd95219e4836b304c2579b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #218 from sualeh/schemacrawler</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/59e3d644d72b028a22fb0c2bf9518931a6ee36a2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.schemacrawler.com/diagramming.html"><b>SchemaCrawler</b></a> - generates an E-R diagram of your database.<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #214 from tomstoneham/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/508b1e99b1ec9dd9d194a01b3bf2032d8e27c045</link><description><![CDATA[# _ciph: aes128, aes256<br>
+# _ciph: aes128, aes256<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #211 from villu164/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/ead5324c2e66661721a96cb6e5343ba70dcc471b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="http://web.archive.org/web/20190221103734/https://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #213 from fuzzfree/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c2062bafe9ea317aaffcfc684358b05e4be98df8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager for Windows. Multi-tabbed PuTTy on steroids!<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/610442d02c21bc164fd7c6cf3bcf51c107f5f24f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #207 from fl0ppy-d1sk/patch-1</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7caf2bd84bf0000bcf22758ab1902a048d77f4a4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx Docker image "secure by default", it provides generic security configs, settings and tools so you don't need to do it by hand.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <ahref="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br><br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fe33d1db281371da32b8e86e676c13e6ebc60fb4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br><br>
  ]]></description>
 </item>
 
