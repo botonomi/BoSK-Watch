@@ -4,6 +4,62 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>Merge pull request #353 from caverav/master</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/945e21b6a41f3a162e18a100775ff4f922f5ea31</link><description><![CDATA[- **[Shell tricks](#shell-tricks-toc)**<br>
+#### Shell tricks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)<br>
+  When you get a shell, it is generally not very clean, but after following these steps, you will have a fairly clean and comfortable shell to work with.<br>
+  1) ```script /dev/null -c bash```<br>
+  2) Ctrl-Z (to send it to background)<br>
+  3) ```stty raw -echo; fg``` (returns the shell to foreground)<br>
+  4) ```reset``` (to reset terminal)<br>
+  5) ```xterm``` (when asked for terminal type)<br>
+  6) ```export TERM=xterm; export SHELL=bash```<br>
+- **[Shell One-liners](#shell-one-liners-toc)**<br>
+- **[Shell Tricks](#shell-tricks-toc)**<br>
+- **[Shell Functions](#shell-functions-toc)**<br>
+#### Shell One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)<br>
+d(){ vimdiff <(f $1) <(f $2);};f(){ hexdump -C $1 | cut -d' ' -f3- | tr -s ' ';}; d ~/bin1 ~/bin2<br>
+#### Shell Tricks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)<br>
+When you get a shell, it is generally not very clean, but after following these steps, you will have a fairly clean and comfortable shell to work with.<br>
+1) `script /dev/null -c bash`<br>
+2) Ctrl-Z (to send it to background)<br>
+3) `stty raw -echo; fg` (returns the shell to foreground)<br>
+4) `reset` (to reset terminal)<br>
+5) `xterm` (when asked for terminal type)<br>
+6) `export TERM=xterm; export SHELL=bash`<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/db823f6b702da48986f6c87b82f7720d33280be8</link><description><![CDATA[- **[Shell One-liners](#shell-one-liners-toc)**<br>
+- **[Shell Tricks](#shell-tricks-toc)**<br>
+- **[Shell Functions](#shell-functions-toc)**<br>
+#### Shell One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)<br>
+d(){ vimdiff <(f $1) <(f $2);};f(){ hexdump -C $1 | cut -d' ' -f3- | tr -s ' ';}; d ~/bin1 ~/bin2<br>
+#### Shell Tricks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)<br>
+When you get a shell, it is generally not very clean, but after following these steps, you will have a fairly clean and comfortable shell to work with.<br>
+1) `script /dev/null -c bash`<br>
+2) Ctrl-Z (to send it to background)<br>
+3) `stty raw -echo; fg` (returns the shell to foreground)<br>
+4) `reset` (to reset terminal)<br>
+5) `xterm` (when asked for terminal type)<br>
+6) `export TERM=xterm; export SHELL=bash`<br>
+ ]]></description>
+</item>
+<item>
+	<title>added shell cleaning trick</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/1ea2c2f84a3b1216ed27e69cef64c67e7a5eff45</link><description><![CDATA[- **[Shell tricks](#shell-tricks-toc)**<br>
+#### Shell tricks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)<br>
+  When you get a shell, it is generally not very clean, but after following these steps, you will have a fairly clean and comfortable shell to work with.<br>
+  1) ```script /dev/null -c bash```<br>
+  2) Ctrl-Z (to send it to background)<br>
+  3) ```stty raw -echo; fg``` (returns the shell to foreground)<br>
+  4) ```reset``` (to reset terminal)<br>
+  5) ```xterm``` (when asked for terminal type)<br>
+  6) ```export TERM=xterm; export SHELL=bash```<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #294 from pratik-devkota/master</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/12da91205abfe8c7a088241bc05418df0f9e0fc2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.privacyguides.org/"><b>privacyguides.org</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br><br>
  ]]></description>
@@ -90,24 +146,6 @@
 	<title>Merge pull request #213 from fuzzfree/patch-1</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/c2062bafe9ea317aaffcfc684358b05e4be98df8</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager for Windows. Multi-tabbed PuTTy on steroids!<br><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/610442d02c21bc164fd7c6cf3bcf51c107f5f24f</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #207 from fl0ppy-d1sk/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7caf2bd84bf0000bcf22758ab1902a048d77f4a4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx Docker image "secure by default", it provides generic security configs, settings and tools so you don't need to do it by hand.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <ahref="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br><br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/fe33d1db281371da32b8e86e676c13e6ebc60fb4</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br><br>
  ]]></description>
 </item>
 
