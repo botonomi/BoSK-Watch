@@ -4,6 +4,10 @@
 <description>New at The Book of Secret Knowledge</description>
 <link></link>
 <item>
+	<title>uncommited changes</title>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/7d37069a361d3fd9f214480755f7969744e866fa</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>minor fixes</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/9280d0e7ea00fad1679b33c5da4ea89faead78b5</link><description><![CDATA[&nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br><br>
 &nbsp;&nbsp; <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences.<br><br>
@@ -1051,12 +1055,6 @@ When you get a shell, it is generally not very clean, but after following these 
 <item>
 	<title>Merge pull request #218 from sualeh/schemacrawler</title>
 	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/59e3d644d72b028a22fb0c2bf9518931a6ee36a2</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.schemacrawler.com/diagramming.html"><b>SchemaCrawler</b></a> - generates an E-R diagram of your database.<br><br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #214 from tomstoneham/master</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/508b1e99b1ec9dd9d194a01b3bf2032d8e27c045</link><description><![CDATA[# _ciph: aes128, aes256<br>
-# _ciph: aes128, aes256<br>
  ]]></description>
 </item>
 
