@@ -1049,7 +1049,8 @@ When you get a shell, it is generally not very clean, but after following these 
 </item>
 <item>
 	<title>Merge pull request #217 from PabloLec/patch-1</title>
-	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e84a9ae4e2ee44a6f3cd95219e4836b304c2579b</link><description><![CDATA[ ]]></description>
+	<link>https://github.com/trimstray/the-book-of-secret-knowledge/commit/e84a9ae4e2ee44a6f3cd95219e4836b304c2579b</link><description><![CDATA[&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br><br>
+ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #218 from sualeh/schemacrawler</title>
